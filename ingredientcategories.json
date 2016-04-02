@@ -1,0 +1,6171 @@
+ /* need to clean up the ingrendient names and so forth */
+[
+  {
+    "ingredient": "abies_alba",
+    "cat": "p"
+  },
+  {
+    "ingredient": "abies_alba_pine_needle",
+    "cat": "p"
+  },
+  {
+    "ingredient": "abies_balsamea_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "abies_canadensis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "abies_concolor",
+    "cat": "p"
+  },
+  {
+    "ingredient": "abies_sibirica",
+    "cat": "p"
+  },
+  {
+    "ingredient": "abies_sibirica_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "acacia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "acacia_caven",
+    "cat": "p"
+  },
+  {
+    "ingredient": "acacia_dealbata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "acacia_farnesiana",
+    "cat": "p"
+  },
+  {
+    "ingredient": "acacia_farnesiana_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "acacia_flower_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "achasma_walang",
+    "cat": "p"
+  },
+  {
+    "ingredient": "achillea_ageratum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "achillea_micrantha_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "achillea_millefolium",
+    "cat": "p"
+  },
+  {
+    "ingredient": "aconitum_napellus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "agaricus",
+    "cat": "v"
+  },
+  {
+    "ingredient": "agarwood",
+    "cat": "p"
+  },
+  {
+    "ingredient": "agastache_formosana",
+    "cat": "h"
+  },
+  {
+    "ingredient": "agastache_rugosa",
+    "cat": "h"
+  },
+  {
+    "ingredient": "agathosma_gnidioides_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "alcoholic_beverage",
+    "cat": "a"
+  },
+  {
+    "ingredient": "algae",
+    "cat": "v"
+  },
+  {
+    "ingredient": "algerian_geranium_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "almond",
+    "cat": "n"
+  },
+  {
+    "ingredient": "almond_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "alpinia_malaccensis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "alpinia_malaccensis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "alpinia_sessilis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ambergris_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ambrette",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ambrette_seed",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ambrette_seed_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "american_cranberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "american_pennyroyal",
+    "cat": "p"
+  },
+  {
+    "ingredient": "american_peppermint",
+    "cat": "h"
+  },
+  {
+    "ingredient": "american_peppermint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "american_potato_chip",
+    "cat": "v"
+  },
+  {
+    "ingredient": "american_sassafras_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "american_storax",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ananas_sativus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ananas_sativus_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "andropogon_gragrans",
+    "cat": "p"
+  },
+  {
+    "ingredient": "andropogon_intermedius",
+    "cat": "p"
+  },
+  {
+    "ingredient": "andropogon_jwarancusa",
+    "cat": "p"
+  },
+  {
+    "ingredient": "angelica",
+    "cat": "h"
+  },
+  {
+    "ingredient": "angelica_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "angelica_root",
+    "cat": "p"
+  },
+  {
+    "ingredient": "angelica_root_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "angelica_seed",
+    "cat": "p"
+  },
+  {
+    "ingredient": "animal",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "anise",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "anise_brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "anise_hyssop",
+    "cat": "h"
+  },
+  {
+    "ingredient": "anise_seed",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "anise_seed_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "annona_reticulata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "apple",
+    "cat": "f"
+  },
+  {
+    "ingredient": "apple_brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "apple_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "apple_sauce",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "apricot",
+    "cat": "f"
+  },
+  {
+    "ingredient": "apricot_kernel",
+    "cat": "n"
+  },
+  {
+    "ingredient": "araucaria_cunninghamii",
+    "cat": "p"
+  },
+  {
+    "ingredient": "aristolochia_clematitis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "armagnac",
+    "cat": "a"
+  },
+  {
+    "ingredient": "armenian_muscat_grape_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "arnica_montana",
+    "cat": "p"
+  },
+  {
+    "ingredient": "arrack",
+    "cat": "a"
+  },
+  {
+    "ingredient": "artemisae_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "artemisia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_arborescens",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_brevifolia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_camphorata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_cina",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_dracunculus_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "artemisia_ferganensis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_frigida",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_frigida_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "artemisia_hausiliensis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_herba_alba",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_juncea",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_maritime_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "artemisia_porrecta_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "artemisia_santolinifolia_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "artemisia_santolinifolia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_scoparia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_transiliensis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_tridentata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artemisia_verlo",
+    "cat": "p"
+  },
+  {
+    "ingredient": "artichoke",
+    "cat": "v"
+  },
+  {
+    "ingredient": "asarum_arifolium_root_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "asarum_canadense_root_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "asarum_europaeum_root_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ashanti_pepper",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "asian_storax",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "asparagus",
+    "cat": "v"
+  },
+  {
+    "ingredient": "asperula_odorosa",
+    "cat": "p"
+  },
+  {
+    "ingredient": "atropa_belladonna_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "atropa_belladonna_root",
+    "cat": "p"
+  },
+  {
+    "ingredient": "auricula_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "auto_oxidized_salmon_oil",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "avocado",
+    "cat": "f"
+  },
+  {
+    "ingredient": "azalea",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "babaco",
+    "cat": "f"
+  },
+  {
+    "ingredient": "bachang",
+    "cat": "p"
+  },
+  {
+    "ingredient": "backhousia_citriodora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "backhousia_citriodora_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bacon",
+    "cat": "m"
+  },
+  {
+    "ingredient": "baeckea_citriodora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "baeckea_citriodora_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bael",
+    "cat": "f"
+  },
+  {
+    "ingredient": "baked_potato",
+    "cat": "v"
+  },
+  {
+    "ingredient": "balm",
+    "cat": "h"
+  },
+  {
+    "ingredient": "banana",
+    "cat": "f"
+  },
+  {
+    "ingredient": "banana_passion_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "bantu_beer",
+    "cat": "a"
+  },
+  {
+    "ingredient": "barley",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "barosma_betulina",
+    "cat": "p"
+  },
+  {
+    "ingredient": "barosma_crenulata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "barosma_pulchella_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "barosma_pulchella_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "barosma_venustum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "bartlett_pear",
+    "cat": "f"
+  },
+  {
+    "ingredient": "basil",
+    "cat": "h"
+  },
+  {
+    "ingredient": "basil_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bay",
+    "cat": "h"
+  },
+  {
+    "ingredient": "bay_laurel",
+    "cat": "h"
+  },
+  {
+    "ingredient": "bay_laurel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "beech",
+    "cat": "p"
+  },
+  {
+    "ingredient": "beech_tar_creosote",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "beechwood_tar",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "beef",
+    "cat": "m"
+  },
+  {
+    "ingredient": "beef_broth",
+    "cat": "m"
+  },
+  {
+    "ingredient": "beef_liver",
+    "cat": "m"
+  },
+  {
+    "ingredient": "beef_tallow",
+    "cat": "m"
+  },
+  {
+    "ingredient": "beer",
+    "cat": "a"
+  },
+  {
+    "ingredient": "beet",
+    "cat": "v"
+  },
+  {
+    "ingredient": "beet_juice",
+    "cat": "v"
+  },
+  {
+    "ingredient": "beet_root",
+    "cat": "v"
+  },
+  {
+    "ingredient": "bell_pepper",
+    "cat": "v"
+  },
+  {
+    "ingredient": "benzoin",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "benzoin_resin",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bergamot",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "bergamot_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bergamot_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "berry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "berry_bud",
+    "cat": "p"
+  },
+  {
+    "ingredient": "berry_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "betel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "bilberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "bilberry_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "birch",
+    "cat": "p"
+  },
+  {
+    "ingredient": "bisabol_myrrh",
+    "cat": "h"
+  },
+  {
+    "ingredient": "bitter_almond",
+    "cat": "n"
+  },
+  {
+    "ingredient": "bitter_almond_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bitter_fennel",
+    "cat": "h"
+  },
+  {
+    "ingredient": "bitter_orange",
+    "cat": "f"
+  },
+  {
+    "ingredient": "bitter_orange_flower_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bitter_orange_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "bitter_orange_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "bitter_orange_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bitter_orange_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "black_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "black_chokeberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "black_chokecherry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "black_currant",
+    "cat": "f"
+  },
+  {
+    "ingredient": "black_currant_bud",
+    "cat": "p"
+  },
+  {
+    "ingredient": "black_currant_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "black_mustard_seed_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "black_pepper",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "black_raspberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "black_seabream",
+    "cat": "f"
+  },
+  {
+    "ingredient": "black_sesame_seed",
+    "cat": "n"
+  },
+  {
+    "ingredient": "black_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "black_tea_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "blackberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "blackberry_brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "blackberry_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "blenheim_apricot",
+    "cat": "f"
+  },
+  {
+    "ingredient": "blue_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "blueberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "blumea_eriantha_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "blumea_malcomii_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bog_blueberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "boiled_beef",
+    "cat": "m"
+  },
+  {
+    "ingredient": "boiled_chicken",
+    "cat": "m"
+  },
+  {
+    "ingredient": "boiled_crab",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "boiled_meat",
+    "cat": "m"
+  },
+  {
+    "ingredient": "boiled_mutton",
+    "cat": "m"
+  },
+  {
+    "ingredient": "boiled_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "boldea_fragrans",
+    "cat": "p"
+  },
+  {
+    "ingredient": "boldo",
+    "cat": "p"
+  },
+  {
+    "ingredient": "boldo_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "boletus_scaber",
+    "cat": "v"
+  },
+  {
+    "ingredient": "bone_oil",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "boronia_anemonifolia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "boronia_citriodora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "boronia_dentigeroides_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "boronia_ledifolia_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "boronia_ledifolia_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "borosma_pulchellum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "boswellia_serrata_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "botrytized_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "bourbon_geranium",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bourbon_whiskey",
+    "cat": "a"
+  },
+  {
+    "ingredient": "brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "brassica",
+    "cat": "p"
+  },
+  {
+    "ingredient": "brazil_nut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "brazil_peppermint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "brazil_rosewood",
+    "cat": "p"
+  },
+  {
+    "ingredient": "brazilian_sassafras",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "brazilian_sassafras_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bread",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "brewed_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "broccoli",
+    "cat": "v"
+  },
+  {
+    "ingredient": "brown_rice",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "brussels_sprout",
+    "cat": "v"
+  },
+  {
+    "ingredient": "buchu",
+    "cat": "p"
+  },
+  {
+    "ingredient": "buchu_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "buchu_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "buckwheat",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "bulgarian_clary_sage",
+    "cat": "h"
+  },
+  {
+    "ingredient": "bulgarian_clary_sage_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bulgarian_peppermint",
+    "cat": "h"
+  },
+  {
+    "ingredient": "bulgarian_rose",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "bulgarian_rose_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "bulgarian_tobacco",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "burley_tobacco",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "burley_tobacco_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "butter",
+    "cat": "d"
+  },
+  {
+    "ingredient": "butter_oil",
+    "cat": "d"
+  },
+  {
+    "ingredient": "butterfat",
+    "cat": "d"
+  },
+  {
+    "ingredient": "buttermilk",
+    "cat": "d"
+  },
+  {
+    "ingredient": "bystropogon_mollis_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cabbage",
+    "cat": "v"
+  },
+  {
+    "ingredient": "cabbage_juice",
+    "cat": "v"
+  },
+  {
+    "ingredient": "cabernet_sauvignon",
+    "cat": "a"
+  },
+  {
+    "ingredient": "cabernet_sauvignon_grape",
+    "cat": "f"
+  },
+  {
+    "ingredient": "cabernet_sauvignon_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "cabreuva",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cacao",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "caesalpinia_spinosa",
+    "cat": "p"
+  },
+  {
+    "ingredient": "caja_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "cajeput",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cajeput_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "calabash_nutmeg",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "calamus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "california_laurel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "california_lemon_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "california_orange",
+    "cat": "f"
+  },
+  {
+    "ingredient": "california_orange_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "california_pepper",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "callitris_intratropica",
+    "cat": "p"
+  },
+  {
+    "ingredient": "callitris",
+    "cat": "p"
+  },
+  {
+    "ingredient": "callitris_drummondii",
+    "cat": "p"
+  },
+  {
+    "ingredient": "callitris_glauca",
+    "cat": "p"
+  },
+  {
+    "ingredient": "callitris_gracilis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "callitris_rubusta",
+    "cat": "p"
+  },
+  {
+    "ingredient": "calyptranthes_parriculata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "calytrix_tetragona",
+    "cat": "p"
+  },
+  {
+    "ingredient": "calytrix_tetragona_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "calytrix_virgata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "camembert_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "camphor",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "camphor_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cananga",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "cane_molasses",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cantaloupe",
+    "cat": "f"
+  },
+  {
+    "ingredient": "cape_gooseberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "caprifoliaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "capsicum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "capsicum_annuum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "caraway",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "caraway_seed",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "cardamom",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "cardamom_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "carnation",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "carnation_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "carob",
+    "cat": "f"
+  },
+  {
+    "ingredient": "carob_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "carphephorus_corymbosus_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "carphephorus_paniculatus_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "carpinus_betulus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "carrot",
+    "cat": "v"
+  },
+  {
+    "ingredient": "carvomenthenol",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cascarilla",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cashew",
+    "cat": "n"
+  },
+  {
+    "ingredient": "cassava",
+    "cat": "v"
+  },
+  {
+    "ingredient": "cassia",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "cassia_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cassis_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "castoreum",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "castoreum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "catfish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "caucas",
+    "cat": "v"
+  },
+  {
+    "ingredient": "caucus",
+    "cat": "v"
+  },
+  {
+    "ingredient": "cauliflower",
+    "cat": "v"
+  },
+  {
+    "ingredient": "caviar",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "cayenne",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "cayenne_bois_de_rose",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cayenne_linaloe",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cayenne_rosewood",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ceanothus_velutinus_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "celery",
+    "cat": "v"
+  },
+  {
+    "ingredient": "celery_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "celery_root",
+    "cat": "v"
+  },
+  {
+    "ingredient": "celery_seed",
+    "cat": "n"
+  },
+  {
+    "ingredient": "cereal",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "ceriman",
+    "cat": "f"
+  },
+  {
+    "ingredient": "ceylon_cinnamon",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "ceylon_citronella",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ceylon_citronella_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ceylon_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ceylon_tea_cinnamon_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ceylon_tea_citronella_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ceylon_tea_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "chamaecyparis_formosensis_root_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "chamaecyparis_formosensis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "chamaecyparis_lawsoniana",
+    "cat": "p"
+  },
+  {
+    "ingredient": "chamaecyparis_pisifera_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "chamaecyparis_pisifera",
+    "cat": "p"
+  },
+  {
+    "ingredient": "chamomile",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "chamomile_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "champaca",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "champagne_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "chayote",
+    "cat": "f"
+  },
+  {
+    "ingredient": "cheddar_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "chempedak",
+    "cat": "f"
+  },
+  {
+    "ingredient": "chenopodium",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cherimoya",
+    "cat": "f"
+  },
+  {
+    "ingredient": "cherry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "cherry_brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "cherry_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "chervil",
+    "cat": "h"
+  },
+  {
+    "ingredient": "chestnut_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "chestnut_honey",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "chicken",
+    "cat": "m"
+  },
+  {
+    "ingredient": "chicken_broth",
+    "cat": "m"
+  },
+  {
+    "ingredient": "chicken_liver",
+    "cat": "m"
+  },
+  {
+    "ingredient": "chickpea",
+    "cat": "v"
+  },
+  {
+    "ingredient": "chicory",
+    "cat": "v"
+  },
+  {
+    "ingredient": "chicory_root",
+    "cat": "v"
+  },
+  {
+    "ingredient": "chinese_cabbage",
+    "cat": "v"
+  },
+  {
+    "ingredient": "chinese_cinnamon",
+    "cat": "h"
+  },
+  {
+    "ingredient": "chinese_quince",
+    "cat": "f"
+  },
+  {
+    "ingredient": "chinese_quince_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "chinese_star_anise",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "chinese_star_anise_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "chive",
+    "cat": "v"
+  },
+  {
+    "ingredient": "choke_cherry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "chokeberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "chrysanthemum_japonicum",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "chrysanthemum_sincuse_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "chrysocoris_stolli",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "cicuta_virosa_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cider",
+    "cat": "a"
+  },
+  {
+    "ingredient": "cigarette",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cilantro",
+    "cat": "h"
+  },
+  {
+    "ingredient": "cinchona",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cinchona_officinalis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cinnamomum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cinnamomum_camphora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cinnamomum_cassia_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cinnamomum_kanahirain",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cinnamomum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cinnamomum_oliveri_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cinnamon",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "cinnamon_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cinnamon_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cinnamon_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cistus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cistus_labdanum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cistus_ladaniferus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "citron",
+    "cat": "h"
+  },
+  {
+    "ingredient": "citronella",
+    "cat": "h"
+  },
+  {
+    "ingredient": "citronella_grass",
+    "cat": "h"
+  },
+  {
+    "ingredient": "citronella_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "citrus",
+    "cat": "f"
+  },
+  {
+    "ingredient": "citrus_flower_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "citrus_fruit_blossom",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "citrus_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "citrus_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "citrus_limetta_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "citrus_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "citrus_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "citrus_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "clam",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "clary_sage",
+    "cat": "h"
+  },
+  {
+    "ingredient": "clary_sage_bush",
+    "cat": "p"
+  },
+  {
+    "ingredient": "clary_sage_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cloudberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "cloudberry_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "clove",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "clove_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "clove_pink",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "coal_tar",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cockroach",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "cocoa",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cocoa_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cocoa_liquor",
+    "cat": "a"
+  },
+  {
+    "ingredient": "coconut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "coconut_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cod",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "cod_liver_oil",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "coffee",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "coffee_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "cognac",
+    "cat": "a"
+  },
+  {
+    "ingredient": "cognac_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "compositae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "comte_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "concord_grape",
+    "cat": "f"
+  },
+  {
+    "ingredient": "condiment",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "congo_geranium",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "cooked_apple",
+    "cat": "f"
+  },
+  {
+    "ingredient": "copaiba",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "copaiba_balsam",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "coprosma_foetidissima_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "coriander",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "coriander_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "corn",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "corn_flake",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "corn_grit",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "corn_mint",
+    "cat": "h"
+  },
+  {
+    "ingredient": "corn_mint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "corn_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "corn_salad",
+    "cat": "p"
+  },
+  {
+    "ingredient": "corn_tortilla",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "cottage_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "cowberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "crab",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "cranberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "crayfish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "cream",
+    "cat": "d"
+  },
+  {
+    "ingredient": "cream_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "creosote",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "crepis_foetida_root",
+    "cat": "p"
+  },
+  {
+    "ingredient": "crimean_white_grape_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "crisp_bread",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "crowberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "crownberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "cruciferae_seed",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cryptomeria_japonica",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cubeb",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "cucumber",
+    "cat": "v"
+  },
+  {
+    "ingredient": "cumin",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "cumin_fruit_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cumin_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cupressaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cupressaceae_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cupressus_lusitanica",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cupressus_macrocarpa_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "curcuma",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "curcuma_aeruginosa",
+    "cat": "p"
+  },
+  {
+    "ingredient": "curcuma_aromatica",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "cured_ham",
+    "cat": "m"
+  },
+  {
+    "ingredient": "cured_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "currant",
+    "cat": "f"
+  },
+  {
+    "ingredient": "currant_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "custard_apple",
+    "cat": "f"
+  },
+  {
+    "ingredient": "cuttlefish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "cymbopogon_citralis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "cymbopogon_javanensis",
+    "cat": "h"
+  },
+  {
+    "ingredient": "cymbopogon_sennaarensis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cypress",
+    "cat": "p"
+  },
+  {
+    "ingredient": "cypress_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "dacrydium_colensoi",
+    "cat": "p"
+  },
+  {
+    "ingredient": "dacrydium_franklinii_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "daffodil",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "daffodil_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "dairy",
+    "cat": "d"
+  },
+  {
+    "ingredient": "dalbergia_sissoo",
+    "cat": "p"
+  },
+  {
+    "ingredient": "darwinia_grandiflora_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "date",
+    "cat": "f"
+  },
+  {
+    "ingredient": "datura_stramonium",
+    "cat": "p"
+  },
+  {
+    "ingredient": "demon_red",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "dill",
+    "cat": "h"
+  },
+  {
+    "ingredient": "dill_blossom",
+    "cat": "p"
+  },
+  {
+    "ingredient": "dill_seed",
+    "cat": "p"
+  },
+  {
+    "ingredient": "dolphin",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "domiati_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "doryphora_sassafras_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "dried_black_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "dried_fig",
+    "cat": "f"
+  },
+  {
+    "ingredient": "dried_green_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "dried_kidney_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "dried_parsley",
+    "cat": "h"
+  },
+  {
+    "ingredient": "dried_spinach",
+    "cat": "v"
+  },
+  {
+    "ingredient": "durian",
+    "cat": "f"
+  },
+  {
+    "ingredient": "dwarf_pine",
+    "cat": "p"
+  },
+  {
+    "ingredient": "dwarf_quince",
+    "cat": "f"
+  },
+  {
+    "ingredient": "east_african_geranium",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "east_indian_geranium",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "echinacea",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "eel",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "egg",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "egg_noodle",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "elder_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "elderberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "elderberry_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "elderberry_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "elettaria_caradmomum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "elsholtzia_argyi",
+    "cat": "p"
+  },
+  {
+    "ingredient": "elsholtzia_ciliata",
+    "cat": "h"
+  },
+  {
+    "ingredient": "elsholtzia_ciliata_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "emmental_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "endive",
+    "cat": "v"
+  },
+  {
+    "ingredient": "english_peppermint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "enokidake",
+    "cat": "v"
+  },
+  {
+    "ingredient": "eremocitrus_glauca",
+    "cat": "f"
+  },
+  {
+    "ingredient": "erica_arborea_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eriostemon_coxii_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eryngium_facidum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eryngium_poterium",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eryngium_poterium_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "estragon",
+    "cat": "h"
+  },
+  {
+    "ingredient": "estragon_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ethiopian_pepper",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "eucalyptus",
+    "cat": "h"
+  },
+  {
+    "ingredient": "eucalyptus_amygdalina",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eucalyptus_australianavar_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eucalyptus_bakeries_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eucalyptus_cinereea",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eucalyptus_citridora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eucalyptus_citriodora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eucalyptus_citriodora_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eucalyptus_diversicolor_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eucalyptus_dives",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eucalyptus_dives_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eucalyptus_globulus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eucalyptus_globulus_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eucalyptus_goniocalyx",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eucalyptus_hemilampra",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eucalyptus_macarthuri_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eucalyptus_macarthurii",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eucalyptus_maideni",
+    "cat": "p"
+  },
+  {
+    "ingredient": "eucalyptus_microcorys_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eucalyptus_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eucalyptus_polibrac_tea_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "eucalyptus_radiata_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "european_cranberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "ewe",
+    "cat": "m"
+  },
+  {
+    "ingredient": "fagara_zanthoxyloides_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "fagroea_racemosa_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "farnesol",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "fatty_fish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "feces",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "feijoa",
+    "cat": "f"
+  },
+  {
+    "ingredient": "fennel",
+    "cat": "h"
+  },
+  {
+    "ingredient": "fennel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "fenugreek",
+    "cat": "h"
+  },
+  {
+    "ingredient": "fermented_radish",
+    "cat": "v"
+  },
+  {
+    "ingredient": "fermented_russian_black_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "fermented_shrimp",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "fermented_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "fermented_tea_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "feronia_elephantum",
+    "cat": "f"
+  },
+  {
+    "ingredient": "feta_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "field_mint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "fig",
+    "cat": "f"
+  },
+  {
+    "ingredient": "filbert",
+    "cat": "n"
+  },
+  {
+    "ingredient": "filipendula_ulmaria_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "finnish_pine_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "finnish_whiskey",
+    "cat": "a"
+  },
+  {
+    "ingredient": "finocchoi_fennel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "fish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "fish_oil",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "florida_orange_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "fortunella_margarita",
+    "cat": "p"
+  },
+  {
+    "ingredient": "frankfurter",
+    "cat": "m"
+  },
+  {
+    "ingredient": "french_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "french_fried_potato",
+    "cat": "v"
+  },
+  {
+    "ingredient": "french_lavender",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "french_marigold_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "french_peppermint",
+    "cat": "h"
+  },
+  {
+    "ingredient": "french_peppermint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "fried_beef",
+    "cat": "m"
+  },
+  {
+    "ingredient": "fried_chicken",
+    "cat": "m"
+  },
+  {
+    "ingredient": "fried_cured_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "fried_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "fruit_brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "fruit_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "fumaria_officinalis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "furcraea_gigantean_flower_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "galanga",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "galbanum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "garcia_mangostana",
+    "cat": "p"
+  },
+  {
+    "ingredient": "gardenia",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "gardenia_flower_oil",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "garlic",
+    "cat": "v"
+  },
+  {
+    "ingredient": "garlic_mustard",
+    "cat": "h"
+  },
+  {
+    "ingredient": "garlic_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "gastrochilus_pandurata_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "gelatin",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "geraniaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "geranium",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "geranium_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "german_chamomile_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "gin",
+    "cat": "a"
+  },
+  {
+    "ingredient": "ginger",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "ginger_grass",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ginger_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "globefish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "goat_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "goat_milk",
+    "cat": "d"
+  },
+  {
+    "ingredient": "grain",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "graminaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "grape",
+    "cat": "f"
+  },
+  {
+    "ingredient": "grape_brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "grape_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "grape_must",
+    "cat": "f"
+  },
+  {
+    "ingredient": "grape_syrup",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "grape_vine",
+    "cat": "p"
+  },
+  {
+    "ingredient": "grapefruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "grapefruit_blossom",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "grapefruit_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "grapefruit_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "grapefruit_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "grapefruit_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "green_bell_pepper",
+    "cat": "v"
+  },
+  {
+    "ingredient": "green_mate",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "green_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "green_tea_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "grilled_beef",
+    "cat": "m"
+  },
+  {
+    "ingredient": "grilled_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "gruyère_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "guarana",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "guava",
+    "cat": "f"
+  },
+  {
+    "ingredient": "guava_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "guinea_orange_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "guinea_pepper",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "guineafowl",
+    "cat": "m"
+  },
+  {
+    "ingredient": "haddock",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "ham",
+    "cat": "m"
+  },
+  {
+    "ingredient": "hatsutake",
+    "cat": "v"
+  },
+  {
+    "ingredient": "hazelnut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "hedychium_spicatum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "helichrysum_angustifolium",
+    "cat": "p"
+  },
+  {
+    "ingredient": "helichrysum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "helichrysum_italicum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "heracleum_candicans_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "heracleum_villosum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "hernandia_peltata_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "herring",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "hevea_brasiliensis_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "highbush_blueberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "hinoki",
+    "cat": "p"
+  },
+  {
+    "ingredient": "hinoki_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "hoary_basil",
+    "cat": "h"
+  },
+  {
+    "ingredient": "hoary_basil_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "hog_plum",
+    "cat": "f"
+  },
+  {
+    "ingredient": "hogweed",
+    "cat": "h"
+  },
+  {
+    "ingredient": "hogweed_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "holy_basil",
+    "cat": "h"
+  },
+  {
+    "ingredient": "honduras_balsam",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "honduras_peru_balsam",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "honey",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "honey_fungus",
+    "cat": "v"
+  },
+  {
+    "ingredient": "honeydew",
+    "cat": "f"
+  },
+  {
+    "ingredient": "hop",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "hop_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "horse_mackerel",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "horseradish",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "horseradish_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "houttuynia_cordata_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "huckleberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "hyacinth",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "hyacinth_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "hybrid_passion_fruit_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "hyssop",
+    "cat": "h"
+  },
+  {
+    "ingredient": "iberis_sempervirens_seed",
+    "cat": "p"
+  },
+  {
+    "ingredient": "imperatoria",
+    "cat": "p"
+  },
+  {
+    "ingredient": "indian_hemp",
+    "cat": "p"
+  },
+  {
+    "ingredient": "irish_whiskey",
+    "cat": "a"
+  },
+  {
+    "ingredient": "israeli_orange",
+    "cat": "f"
+  },
+  {
+    "ingredient": "israeli_orange_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "italian_lime",
+    "cat": "f"
+  },
+  {
+    "ingredient": "italian_orange_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "jaborandi_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "jackfruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "jamaican_rum",
+    "cat": "a"
+  },
+  {
+    "ingredient": "jammus_citronella_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "japanese_calamus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "japanese_ho_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "japanese_hop_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "japanese_hop",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "japanese_mint",
+    "cat": "h"
+  },
+  {
+    "ingredient": "japanese_peppermint",
+    "cat": "h"
+  },
+  {
+    "ingredient": "japanese_peppermint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "japanese_plum",
+    "cat": "f"
+  },
+  {
+    "ingredient": "japanese_seafood",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "japanese_star_anise",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "japanese_star_anise_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "japanese_whiskey",
+    "cat": "a"
+  },
+  {
+    "ingredient": "jasmine",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "jasmine_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "jasmine_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "jasminum_grandiflorum",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "jasminum_grandiflorum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "jasminum_odoratissimum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "java_citronella",
+    "cat": "p"
+  },
+  {
+    "ingredient": "java_citronella_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "jerusalem_artichoke",
+    "cat": "v"
+  },
+  {
+    "ingredient": "jonquil",
+    "cat": "p"
+  },
+  {
+    "ingredient": "jonquil_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "juniper_berry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "juniper_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "juniper_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "juniperberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "juniperus_chinensis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "juniperus_phoenicea_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "juniperus_sabina",
+    "cat": "p"
+  },
+  {
+    "ingredient": "kabosu_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "kaempferia_ethel_bulb_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "kaffir_lime",
+    "cat": "f"
+  },
+  {
+    "ingredient": "kale",
+    "cat": "v"
+  },
+  {
+    "ingredient": "kaschmis_citronella_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "katsuobushi",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "kelp",
+    "cat": "v"
+  },
+  {
+    "ingredient": "kencur_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "keta_salmon",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "key_lime_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "kidney_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "kiwi",
+    "cat": "f"
+  },
+  {
+    "ingredient": "kohlrabi",
+    "cat": "v"
+  },
+  {
+    "ingredient": "kola_nut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "kola_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "krill",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "kumazasa",
+    "cat": "p"
+  },
+  {
+    "ingredient": "kumquat",
+    "cat": "f"
+  },
+  {
+    "ingredient": "kumquat_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "labdanum",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "labiatae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "lamb",
+    "cat": "m"
+  },
+  {
+    "ingredient": "lamb_liver",
+    "cat": "m"
+  },
+  {
+    "ingredient": "laminaria_japonica",
+    "cat": "v"
+  },
+  {
+    "ingredient": "lantana_camara_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "larch_tree",
+    "cat": "p"
+  },
+  {
+    "ingredient": "lard",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "larix",
+    "cat": "p"
+  },
+  {
+    "ingredient": "larix_americana",
+    "cat": "p"
+  },
+  {
+    "ingredient": "larix_deciduas",
+    "cat": "p"
+  },
+  {
+    "ingredient": "lauraceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "laurel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "laurel_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "laurel_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lavandin",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "lavandin_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lavender",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "lavender_delphinensis",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "lavender_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lavender_vera_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lean_fish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "ledum_palustre",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ledum_palustre_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "leek",
+    "cat": "v"
+  },
+  {
+    "ingredient": "lemon",
+    "cat": "f"
+  },
+  {
+    "ingredient": "lemon_eucalyptus",
+    "cat": "h"
+  },
+  {
+    "ingredient": "lemon_balm",
+    "cat": "h"
+  },
+  {
+    "ingredient": "lemon_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "lemon_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "lemon_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lemon_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "lemon_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lemon_tree",
+    "cat": "p"
+  },
+  {
+    "ingredient": "lemongrass",
+    "cat": "h"
+  },
+  {
+    "ingredient": "lemongrass_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lentil",
+    "cat": "n"
+  },
+  {
+    "ingredient": "leptospermum_citratum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "leptospermum_liversidgei",
+    "cat": "p"
+  },
+  {
+    "ingredient": "lesquerella_seed",
+    "cat": "p"
+  },
+  {
+    "ingredient": "lettuce",
+    "cat": "v"
+  },
+  {
+    "ingredient": "levisticum_acutilobum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "liatris_odoratissima",
+    "cat": "p"
+  },
+  {
+    "ingredient": "licorice",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "ligusticum_acutilobum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ligusticum_acutilobum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lilac",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "lilac_flower_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lilium_candidum_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "lily_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lima_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "limburger_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "lime",
+    "cat": "f"
+  },
+  {
+    "ingredient": "lime_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "lime_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lime_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "lindera_citriodora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "lingonberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "lingonberry_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "lippia_carviodora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "lippia_scaberrima",
+    "cat": "p"
+  },
+  {
+    "ingredient": "liquidambar_orientalis_storax",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "litchi",
+    "cat": "f"
+  },
+  {
+    "ingredient": "litsea_citrata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "litsea_cubeba",
+    "cat": "p"
+  },
+  {
+    "ingredient": "litsea_cubeba_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "litsea_cubeba_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "litsea_guatemalensis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "litsea_guatemalensis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "litsea_odorifera",
+    "cat": "p"
+  },
+  {
+    "ingredient": "litsea_odorifera_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "litsea_odorifera_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "litsea_zeylanica",
+    "cat": "p"
+  },
+  {
+    "ingredient": "litsea_zeylanica_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "liver",
+    "cat": "m"
+  },
+  {
+    "ingredient": "lobster",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "loganberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "loiseleuria_procumbens",
+    "cat": "p"
+  },
+  {
+    "ingredient": "long_pepper",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "loquat",
+    "cat": "f"
+  },
+  {
+    "ingredient": "lovage",
+    "cat": "h"
+  },
+  {
+    "ingredient": "lovage_leaf",
+    "cat": "h"
+  },
+  {
+    "ingredient": "lovage_root",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "luraceae_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "luvunga_scadens_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "macadamia_nut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "macaroni",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "mace",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "mackerel",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "madagascar_cinnamon_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "magnolia_fuscata",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "magnolia_grandiflora",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "magnolia_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "magnolia_salicifolia_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "magnolia_tripetala",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "maize",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "malabar_cardamom_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "malabar_lemongrass_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "malagueta_pepper",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "malay_apple",
+    "cat": "f"
+  },
+  {
+    "ingredient": "malt",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "malt_whiskey",
+    "cat": "a"
+  },
+  {
+    "ingredient": "mammee",
+    "cat": "f"
+  },
+  {
+    "ingredient": "mandarin",
+    "cat": "f"
+  },
+  {
+    "ingredient": "mandarin_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mandarin_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mandarin_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "mandarin_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mango",
+    "cat": "f"
+  },
+  {
+    "ingredient": "mangosteen",
+    "cat": "f"
+  },
+  {
+    "ingredient": "manila_copal",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mantis_shrimp",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "maple_syrup",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "marjoram",
+    "cat": "h"
+  },
+  {
+    "ingredient": "marjoram_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "marula",
+    "cat": "f"
+  },
+  {
+    "ingredient": "mashed_potato",
+    "cat": "v"
+  },
+  {
+    "ingredient": "mastic_gum",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mastic_gum_fruit_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mastic_gum_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mastic_gum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mate",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mate_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "matricaria_parthenium_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "matsutake",
+    "cat": "v"
+  },
+  {
+    "ingredient": "meat",
+    "cat": "m"
+  },
+  {
+    "ingredient": "melaleuca_bracteata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "melaleuca_bracteata_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "melaleuca_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "melaleuca_paucifiora_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "melaleuca_smithii",
+    "cat": "p"
+  },
+  {
+    "ingredient": "melaleuca_trichostachya_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "melaleuca_viridiflora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "melilotus_albus_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "melilotus_officinalis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "melilotus_officinalis_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "melissa_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "melon",
+    "cat": "f"
+  },
+  {
+    "ingredient": "mentha",
+    "cat": "h"
+  },
+  {
+    "ingredient": "mentha_aquatica",
+    "cat": "h"
+  },
+  {
+    "ingredient": "mentha_citrata",
+    "cat": "h"
+  },
+  {
+    "ingredient": "mentha_crispa",
+    "cat": "h"
+  },
+  {
+    "ingredient": "mentha_longifolia_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mentha_silvestris_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mentha_timija",
+    "cat": "h"
+  },
+  {
+    "ingredient": "mentha_verticillata",
+    "cat": "h"
+  },
+  {
+    "ingredient": "mentha_viridis",
+    "cat": "h"
+  },
+  {
+    "ingredient": "mexican_goosefoot",
+    "cat": "p"
+  },
+  {
+    "ingredient": "mexican_lime",
+    "cat": "f"
+  },
+  {
+    "ingredient": "mexican_linaloe",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "michelia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "michelia_champaca_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "micromeria_abyssinica",
+    "cat": "p"
+  },
+  {
+    "ingredient": "milk",
+    "cat": "d"
+  },
+  {
+    "ingredient": "milk_fat",
+    "cat": "d"
+  },
+  {
+    "ingredient": "mimosa_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mimusops_elengi_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "mindanaese_cinnamomum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mint",
+    "cat": "h"
+  },
+  {
+    "ingredient": "mint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "monarda_citriodora_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "monarda_fisulosa",
+    "cat": "p"
+  },
+  {
+    "ingredient": "monarda_punctata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "monarda_punctata_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "monkey_orange",
+    "cat": "f"
+  },
+  {
+    "ingredient": "monodora_grandiflora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "morus_bombycis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mountain_papaya",
+    "cat": "f"
+  },
+  {
+    "ingredient": "mozzarella_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "mulberry_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "mung_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "munster_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "muscadine_grape",
+    "cat": "f"
+  },
+  {
+    "ingredient": "muscat_grape",
+    "cat": "f"
+  },
+  {
+    "ingredient": "muscat_grape_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "mushroom",
+    "cat": "v"
+  },
+  {
+    "ingredient": "musk",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "muskmelon",
+    "cat": "f"
+  },
+  {
+    "ingredient": "mussel",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "mustard",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mustard_greens_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "mutton",
+    "cat": "m"
+  },
+  {
+    "ingredient": "mutton_liver",
+    "cat": "m"
+  },
+  {
+    "ingredient": "myrcia_acris",
+    "cat": "p"
+  },
+  {
+    "ingredient": "myrocarpus_fastigiatus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "myrocarpus_frondosus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "myrrh",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "myrrh_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "myrtaceae_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "myrtle",
+    "cat": "h"
+  },
+  {
+    "ingredient": "myrtleberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "myrtus_communis",
+    "cat": "h"
+  },
+  {
+    "ingredient": "nance",
+    "cat": "f"
+  },
+  {
+    "ingredient": "naranjilla",
+    "cat": "f"
+  },
+  {
+    "ingredient": "narcissus",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "narcissus_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "navy_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "nectandra_elaiophora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "nectarine",
+    "cat": "f"
+  },
+  {
+    "ingredient": "nemuaron_humboldtii_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "nepeta_japonica",
+    "cat": "p"
+  },
+  {
+    "ingredient": "neroli",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "neroli_bigarade",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "neroli_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "nettle",
+    "cat": "p"
+  },
+  {
+    "ingredient": "nezara_viridula",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "niaouli_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "nigra_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "nira",
+    "cat": "v"
+  },
+  {
+    "ingredient": "nobiru",
+    "cat": "v"
+  },
+  {
+    "ingredient": "nut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "nutmeg",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "nutmeg_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "oak_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "oak_musk",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "oak_tar_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "oat",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "oat_groat",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "oatmeal",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "ocimum_gratissimum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ocimum_viride",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ocotea_usambarensis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "octopus",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "okra",
+    "cat": "f"
+  },
+  {
+    "ingredient": "olive",
+    "cat": "f"
+  },
+  {
+    "ingredient": "olive_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "onion",
+    "cat": "v"
+  },
+  {
+    "ingredient": "onion_juice",
+    "cat": "v"
+  },
+  {
+    "ingredient": "onion_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "orange",
+    "cat": "f"
+  },
+  {
+    "ingredient": "orange_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "orange_flower_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "orange_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "orange_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "orange_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "orange_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "orange_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "orange_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "orange_tree",
+    "cat": "p"
+  },
+  {
+    "ingredient": "orchid",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "oregano",
+    "cat": "h"
+  },
+  {
+    "ingredient": "oregano_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "oriental_storax",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "origanum",
+    "cat": "h"
+  },
+  {
+    "ingredient": "origanum_floribundum",
+    "cat": "h"
+  },
+  {
+    "ingredient": "origanum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ormenis_mixta_oil",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ormenis_multicaulis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "orris",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "orris_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "orris_root",
+    "cat": "p"
+  },
+  {
+    "ingredient": "orthodon",
+    "cat": "p"
+  },
+  {
+    "ingredient": "orthodon_asaroniferum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "orthodon_citraliferum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "orthodon_linalooliferum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "orthodon_methylisoeugenoliferum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "orthodon_methylisoeugenoliferum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "orthodon_tenuicaule_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ouzo",
+    "cat": "a"
+  },
+  {
+    "ingredient": "oxidized_lard",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "oxidized_milk",
+    "cat": "d"
+  },
+  {
+    "ingredient": "oxidized_skim_milk",
+    "cat": "d"
+  },
+  {
+    "ingredient": "oxystigma_buccholtzii_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "oyster",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "palm",
+    "cat": "p"
+  },
+  {
+    "ingredient": "palm_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "palm_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "palmarosa",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "palmarosa_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pandanus_odoratissimus",
+    "cat": "h"
+  },
+  {
+    "ingredient": "pandanus_odoratissimus_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "papaver_somniferum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "papaya",
+    "cat": "f"
+  },
+  {
+    "ingredient": "paraguay_petitgrain",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "parmesan",
+    "cat": "d"
+  },
+  {
+    "ingredient": "parmesan_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "parsley",
+    "cat": "h"
+  },
+  {
+    "ingredient": "parsnip",
+    "cat": "v"
+  },
+  {
+    "ingredient": "parsnip_fruit",
+    "cat": "v"
+  },
+  {
+    "ingredient": "parsnip_root",
+    "cat": "p"
+  },
+  {
+    "ingredient": "passiflora_edulis",
+    "cat": "f"
+  },
+  {
+    "ingredient": "passiflora_edulis_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "passiflora_mollissima",
+    "cat": "f"
+  },
+  {
+    "ingredient": "passion_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "passion_fruit_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "passion_fruit_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "patchouli_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pawpaw",
+    "cat": "f"
+  },
+  {
+    "ingredient": "pea",
+    "cat": "v"
+  },
+  {
+    "ingredient": "peach",
+    "cat": "f"
+  },
+  {
+    "ingredient": "peanut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "peanut_butter",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "peanut_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pear",
+    "cat": "f"
+  },
+  {
+    "ingredient": "pear_brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "peated_malt",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pecan",
+    "cat": "n"
+  },
+  {
+    "ingredient": "pelargonium",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "pelargonium_capitaux",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "pelargonium_tomentosum",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "penang_benzoin",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pennyroyal",
+    "cat": "h"
+  },
+  {
+    "ingredient": "pennyroyal_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pepino_melon",
+    "cat": "f"
+  },
+  {
+    "ingredient": "pepper",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "peppermint",
+    "cat": "h"
+  },
+  {
+    "ingredient": "peppermint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "perovski_abrotanoides_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "persea_gratissima_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "persea_pubescens",
+    "cat": "p"
+  },
+  {
+    "ingredient": "peru_balsam",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "petasites_fragrans",
+    "cat": "p"
+  },
+  {
+    "ingredient": "petitgrain",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "petitgrain_bergamot",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "petitgrain_bigarade",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "petitgrain_lemon",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "petitgrain_lemon_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "petitgrain_lime",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "petitgrain_lime_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "petrosimonia_monandra",
+    "cat": "p"
+  },
+  {
+    "ingredient": "phallus_impudicus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "phebalium_dentatum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "phebalium_dentatum_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "phebalium_nudum_root_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "phellodendron_amurense_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "phellodendron_amurense",
+    "cat": "h"
+  },
+  {
+    "ingredient": "phellodendron_japonicum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "picea_alba_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "picea_balsamea_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "picea_canadensis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "picea_orientalis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "picea_rubens",
+    "cat": "p"
+  },
+  {
+    "ingredient": "pickled_ham",
+    "cat": "m"
+  },
+  {
+    "ingredient": "pickled_plum",
+    "cat": "f"
+  },
+  {
+    "ingredient": "pike",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "pilchard",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "pimenta",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "pimento",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "pinaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "pinanona",
+    "cat": "f"
+  },
+  {
+    "ingredient": "pine_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pine_turpentine",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pineapple",
+    "cat": "f"
+  },
+  {
+    "ingredient": "pinto_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "pinus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "pinus_avium_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "pinus_communis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pinus_densiflora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "pinus_excelsa",
+    "cat": "p"
+  },
+  {
+    "ingredient": "pinus_jeffreyi",
+    "cat": "p"
+  },
+  {
+    "ingredient": "pinus_jeffreyi_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pinus_jeffreyi_terpentine",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pinus_punulio",
+    "cat": "p"
+  },
+  {
+    "ingredient": "pinus_sabiniana",
+    "cat": "p"
+  },
+  {
+    "ingredient": "pinus_sabiniana_terpentine",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pinus_sylvestris",
+    "cat": "p"
+  },
+  {
+    "ingredient": "pinus_sylvestris_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "piper_chaba",
+    "cat": "h"
+  },
+  {
+    "ingredient": "piper_famechoni",
+    "cat": "h"
+  },
+  {
+    "ingredient": "piper_lowong",
+    "cat": "h"
+  },
+  {
+    "ingredient": "piper_officinarum",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "piri_piri",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "pistachio",
+    "cat": "n"
+  },
+  {
+    "ingredient": "pittosporum_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "pittosporum_glabratum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "plant",
+    "cat": "p"
+  },
+  {
+    "ingredient": "plum",
+    "cat": "f"
+  },
+  {
+    "ingredient": "plum_brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "plum_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "plumcot",
+    "cat": "f"
+  },
+  {
+    "ingredient": "polianthes_tuberosa_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "polyalthia_canangioides_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "polysiphonia_fastigiata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "pomelo_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "popcorn",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "populus_balsamifera",
+    "cat": "p"
+  },
+  {
+    "ingredient": "porcini",
+    "cat": "v"
+  },
+  {
+    "ingredient": "pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "pork_liver",
+    "cat": "m"
+  },
+  {
+    "ingredient": "pork_sausage",
+    "cat": "m"
+  },
+  {
+    "ingredient": "port_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "potato",
+    "cat": "v"
+  },
+  {
+    "ingredient": "potato_chip",
+    "cat": "v"
+  },
+  {
+    "ingredient": "pouching_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "prawn",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "prickly_pear",
+    "cat": "f"
+  },
+  {
+    "ingredient": "provolone_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "prune",
+    "cat": "f"
+  },
+  {
+    "ingredient": "prunus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "prunus_laurocerasus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "psilocaulon_absimile",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ptychotis_ajowan_seed_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "pumpkin",
+    "cat": "v"
+  },
+  {
+    "ingredient": "purple_passion_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "purple_passion_fruit_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "quercus_olive",
+    "cat": "f"
+  },
+  {
+    "ingredient": "quince",
+    "cat": "f"
+  },
+  {
+    "ingredient": "rabbiteye_blueberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "radish",
+    "cat": "v"
+  },
+  {
+    "ingredient": "radish_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "rafanus_sativus_root",
+    "cat": "p"
+  },
+  {
+    "ingredient": "raisin",
+    "cat": "f"
+  },
+  {
+    "ingredient": "rancid_coconut_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "randia_formosa_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "rangpur",
+    "cat": "f"
+  },
+  {
+    "ingredient": "rapeseed",
+    "cat": "p"
+  },
+  {
+    "ingredient": "raspberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "raspberry_brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "raspberry_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "raspberry_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "raw_asparagus",
+    "cat": "v"
+  },
+  {
+    "ingredient": "raw_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "raw_beef",
+    "cat": "m"
+  },
+  {
+    "ingredient": "raw_cabbage",
+    "cat": "v"
+  },
+  {
+    "ingredient": "raw_chicken",
+    "cat": "m"
+  },
+  {
+    "ingredient": "raw_fatty_fish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "raw_fish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "raw_lamb",
+    "cat": "m"
+  },
+  {
+    "ingredient": "raw_lean_fish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "raw_leek",
+    "cat": "v"
+  },
+  {
+    "ingredient": "raw_pea",
+    "cat": "v"
+  },
+  {
+    "ingredient": "raw_peanut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "raw_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "raw_potato",
+    "cat": "v"
+  },
+  {
+    "ingredient": "raw_radish",
+    "cat": "v"
+  },
+  {
+    "ingredient": "raw_soybean_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "raw_turkey",
+    "cat": "m"
+  },
+  {
+    "ingredient": "red_algae",
+    "cat": "v"
+  },
+  {
+    "ingredient": "red_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "red_currant",
+    "cat": "f"
+  },
+  {
+    "ingredient": "red_kidney_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "red_meat",
+    "cat": "m"
+  },
+  {
+    "ingredient": "red_sage",
+    "cat": "h"
+  },
+  {
+    "ingredient": "red_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "reunion_geranium",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "rhizopus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rhododendron_fauriae_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rhodophyllus_icterus",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rhodotorula_glutinis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rhubarb",
+    "cat": "v"
+  },
+  {
+    "ingredient": "rhus_coriaria",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "rhus_cotinus_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rhus_glabra",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rhus_semialata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rhus_typhia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ribes",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rice",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "rice_bran",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "rice_husk",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "roasted_almond",
+    "cat": "n"
+  },
+  {
+    "ingredient": "roasted_barley",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "roasted_beef",
+    "cat": "m"
+  },
+  {
+    "ingredient": "roasted_chicken",
+    "cat": "m"
+  },
+  {
+    "ingredient": "roasted_chicory_root",
+    "cat": "v"
+  },
+  {
+    "ingredient": "roasted_cocoa",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "roasted_coconut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "roasted_filbert",
+    "cat": "n"
+  },
+  {
+    "ingredient": "roasted_green_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "roasted_hazelnut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "roasted_lamb",
+    "cat": "m"
+  },
+  {
+    "ingredient": "roasted_meat",
+    "cat": "m"
+  },
+  {
+    "ingredient": "roasted_macadamia_nut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "roasted_malt",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "roasted_mate",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "roasted_nut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "roasted_onion",
+    "cat": "v"
+  },
+  {
+    "ingredient": "roasted_peanut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "roasted_pecan",
+    "cat": "n"
+  },
+  {
+    "ingredient": "roasted_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "roasted_sesame_seed",
+    "cat": "n"
+  },
+  {
+    "ingredient": "roasted_shrimp",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "roasted_spanish_peanut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "roasted_turkey",
+    "cat": "m"
+  },
+  {
+    "ingredient": "robinia_pseudoacacia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "robinia_pseudoacacia_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "roman_chamomile",
+    "cat": "h"
+  },
+  {
+    "ingredient": "roman_chamomile_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "romano_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "rooibus_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "root",
+    "cat": "p"
+  },
+  {
+    "ingredient": "roquefort_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "rosa_borbonica",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "rosa_bourboniana_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "rosa_centifolia",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "rosa_rugosa",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "rosaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rose",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "rose_apple",
+    "cat": "f"
+  },
+  {
+    "ingredient": "rose_flower_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "rose_hip",
+    "cat": "f"
+  },
+  {
+    "ingredient": "rose_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "rose_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "roselle",
+    "cat": "h"
+  },
+  {
+    "ingredient": "rosemary",
+    "cat": "h"
+  },
+  {
+    "ingredient": "rosemary_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "rotundifolia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rubus_arcticus",
+    "cat": "f"
+  },
+  {
+    "ingredient": "rue",
+    "cat": "h"
+  },
+  {
+    "ingredient": "rue_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "rum",
+    "cat": "a"
+  },
+  {
+    "ingredient": "rum_brandy",
+    "cat": "a"
+  },
+  {
+    "ingredient": "russian_anise",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "russian_champagne",
+    "cat": "a"
+  },
+  {
+    "ingredient": "russian_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "russian_peppermint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "russian_star_anise",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "ruta_chalepensis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ruta_montana_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "ruta_pinnata_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "rutabaga",
+    "cat": "v"
+  },
+  {
+    "ingredient": "rutaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rye_bread",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "rye_ergot",
+    "cat": "p"
+  },
+  {
+    "ingredient": "rye_flour",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "safflower_seed",
+    "cat": "p"
+  },
+  {
+    "ingredient": "saffron",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "sage",
+    "cat": "h"
+  },
+  {
+    "ingredient": "saigon_cinnamon",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "sake",
+    "cat": "a"
+  },
+  {
+    "ingredient": "salmon",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "salmon_caviar",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "salmon_oil",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "salmon_roe",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "salvia_grandifiora_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "salvia_spinosa",
+    "cat": "p"
+  },
+  {
+    "ingredient": "salvia_triloba_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "sandalwood",
+    "cat": "p"
+  },
+  {
+    "ingredient": "sapodilla",
+    "cat": "f"
+  },
+  {
+    "ingredient": "sapodilla_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "sassafras",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "sassafras_root_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "satsuma",
+    "cat": "f"
+  },
+  {
+    "ingredient": "satsuma_mandarin_peel",
+    "cat": "p"
+  },
+  {
+    "ingredient": "satsuma_mandarin_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "satureia_montana",
+    "cat": "p"
+  },
+  {
+    "ingredient": "satureia_thymera",
+    "cat": "p"
+  },
+  {
+    "ingredient": "sauerkraut",
+    "cat": "v"
+  },
+  {
+    "ingredient": "sauvignon_blanc_grape",
+    "cat": "f"
+  },
+  {
+    "ingredient": "sauvignon_grape",
+    "cat": "f"
+  },
+  {
+    "ingredient": "savory",
+    "cat": "h"
+  },
+  {
+    "ingredient": "saxifragaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "scallion",
+    "cat": "v"
+  },
+  {
+    "ingredient": "scallop",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "schizandra_nigra_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "schizandra_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "scotch",
+    "cat": "a"
+  },
+  {
+    "ingredient": "scotch_spearmint",
+    "cat": "h"
+  },
+  {
+    "ingredient": "scotch_spearmint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "scotch_whiskey",
+    "cat": "a"
+  },
+  {
+    "ingredient": "scrambled_egg",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "sea_algae",
+    "cat": "v"
+  },
+  {
+    "ingredient": "sea_bass",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "sea_buckthorn",
+    "cat": "f"
+  },
+  {
+    "ingredient": "seal",
+    "cat": "m"
+  },
+  {
+    "ingredient": "seaweed",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "seed",
+    "cat": "n"
+  },
+  {
+    "ingredient": "seed_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "senecio_kaempferi",
+    "cat": "p"
+  },
+  {
+    "ingredient": "sesame_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "sesame_seed",
+    "cat": "n"
+  },
+  {
+    "ingredient": "sesame_seed_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "seseli_sibiricum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "seseli_tortuosum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "several_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "seychelles_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "shallot",
+    "cat": "v"
+  },
+  {
+    "ingredient": "sheep_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "sheep_milk",
+    "cat": "d"
+  },
+  {
+    "ingredient": "shellfish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "sherry",
+    "cat": "a"
+  },
+  {
+    "ingredient": "sherry_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "shiitake",
+    "cat": "v"
+  },
+  {
+    "ingredient": "shoro",
+    "cat": "v"
+  },
+  {
+    "ingredient": "shrimp",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "siam_benzoin",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "siberian_pine_needle_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "silk_fibrooin",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "silkworm_chrysalis",
+    "cat": "ap"
+  },
+  {
+    "ingredient": "skim_milk",
+    "cat": "d"
+  },
+  {
+    "ingredient": "smoke",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "smoked_fatty_fish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "smoked_fish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "smoked_herring",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "smoked_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "smoked_pork_belly",
+    "cat": "m"
+  },
+  {
+    "ingredient": "smoked_salmon",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "smoked_sausage",
+    "cat": "m"
+  },
+  {
+    "ingredient": "smoked_summer_sausage",
+    "cat": "m"
+  },
+  {
+    "ingredient": "snap_bean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "solanaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "solidago_odora",
+    "cat": "p"
+  },
+  {
+    "ingredient": "sour_cherry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "sour_milk",
+    "cat": "d"
+  },
+  {
+    "ingredient": "soursop",
+    "cat": "f"
+  },
+  {
+    "ingredient": "south_african_mentha_longifolia",
+    "cat": "h"
+  },
+  {
+    "ingredient": "southern_pea",
+    "cat": "v"
+  },
+  {
+    "ingredient": "soy",
+    "cat": "n"
+  },
+  {
+    "ingredient": "soy_sauce",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "soybean",
+    "cat": "v"
+  },
+  {
+    "ingredient": "soybean_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "spanish_anise",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "spanish_origanum",
+    "cat": "h"
+  },
+  {
+    "ingredient": "spanish_origanum_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "spanish_sage",
+    "cat": "h"
+  },
+  {
+    "ingredient": "sparkling_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "spearmint",
+    "cat": "h"
+  },
+  {
+    "ingredient": "spearmint_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "spearmint_scotch_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "sperm_whale_oil",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "spermaceti_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "sphaeranthus_indicus_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "spike",
+    "cat": "p"
+  },
+  {
+    "ingredient": "spike_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "spirea_ulmaria_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "split_pea",
+    "cat": "v"
+  },
+  {
+    "ingredient": "squash",
+    "cat": "v"
+  },
+  {
+    "ingredient": "squid",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "star_anise",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "star_anise_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "starch",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "starfruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "stirlingia_latifolia",
+    "cat": "p"
+  },
+  {
+    "ingredient": "storax",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "strawberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "strawberry_jam",
+    "cat": "f"
+  },
+  {
+    "ingredient": "strawberry_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "strawberry_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "strawberry_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "sturgeon_caviar",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "sudachi",
+    "cat": "f"
+  },
+  {
+    "ingredient": "sugarcane",
+    "cat": "p"
+  },
+  {
+    "ingredient": "sumac",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "sumatra_benzoin",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "summer_savory",
+    "cat": "h"
+  },
+  {
+    "ingredient": "sunflower_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "sweet_basil",
+    "cat": "h"
+  },
+  {
+    "ingredient": "sweet_grass_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "sweet_potato",
+    "cat": "v"
+  },
+  {
+    "ingredient": "sweetfish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "swiss_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "tabasco_pepper",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "tahiti_vanilla",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "taiwan_citronella",
+    "cat": "p"
+  },
+  {
+    "ingredient": "tamarind",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "tangerine",
+    "cat": "f"
+  },
+  {
+    "ingredient": "tangerine_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "tangerine_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "tangerine_peel_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "tarragon",
+    "cat": "h"
+  },
+  {
+    "ingredient": "tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "tea_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "tea_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "tea_tree_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "temoe_lawak",
+    "cat": "h"
+  },
+  {
+    "ingredient": "temple_orange_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "tequila",
+    "cat": "a"
+  },
+  {
+    "ingredient": "teucrium_chamaedrys",
+    "cat": "p"
+  },
+  {
+    "ingredient": "texas_sage",
+    "cat": "h"
+  },
+  {
+    "ingredient": "thai_pepper",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "thaumatococcus_daniellii",
+    "cat": "p"
+  },
+  {
+    "ingredient": "thaumatococcus_daniellii_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "thea_chinensis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "thlaspi_arvense_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "thuja_articulata_bark_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "thuja_occidentalis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "thuja_occidentalis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "thuja_plicata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "thuja_standishii",
+    "cat": "p"
+  },
+  {
+    "ingredient": "thujopsis_dolabrata",
+    "cat": "p"
+  },
+  {
+    "ingredient": "thymbra_spicata_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "thyme",
+    "cat": "h"
+  },
+  {
+    "ingredient": "thymus",
+    "cat": "h"
+  },
+  {
+    "ingredient": "thymus_caespeititius",
+    "cat": "p"
+  },
+  {
+    "ingredient": "thymus_mastichina",
+    "cat": "p"
+  },
+  {
+    "ingredient": "thymus_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "thymus_zygis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "tilsit_cheese",
+    "cat": "d"
+  },
+  {
+    "ingredient": "toasted_oat",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "toasted_oat_groat",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "toasted_sesame_seed",
+    "cat": "n"
+  },
+  {
+    "ingredient": "tobacco",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "tobacco_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "tobacco_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "tobacco_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "tobacco_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "tolu_balsam",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "tomato",
+    "cat": "v"
+  },
+  {
+    "ingredient": "tomato_juice",
+    "cat": "v"
+  },
+  {
+    "ingredient": "tonka_bean_seed",
+    "cat": "n"
+  },
+  {
+    "ingredient": "trametes_graveolens",
+    "cat": "p"
+  },
+  {
+    "ingredient": "trassi",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "trifolium_incarnatum",
+    "cat": "p"
+  },
+  {
+    "ingredient": "trifolium_pratense_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "truffle",
+    "cat": "v"
+  },
+  {
+    "ingredient": "tsuga_canadensis_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "tsuga_canadensis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "tuber",
+    "cat": "p"
+  },
+  {
+    "ingredient": "tuberose",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "tulip",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "tuna",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "tunisian_rosemary",
+    "cat": "h"
+  },
+  {
+    "ingredient": "turkey",
+    "cat": "m"
+  },
+  {
+    "ingredient": "turkmenistan_sunguli_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "turmeric",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "turnip",
+    "cat": "v"
+  },
+  {
+    "ingredient": "turpentine",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "udo",
+    "cat": "h"
+  },
+  {
+    "ingredient": "umbelliferae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "uncured_boiled_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "uncured_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "uncured_smoked_pork",
+    "cat": "m"
+  },
+  {
+    "ingredient": "unprocessed_rice",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "vachellia_farnesiana",
+    "cat": "p"
+  },
+  {
+    "ingredient": "valencia_orange_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "valencia_orange_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "valerian",
+    "cat": "h"
+  },
+  {
+    "ingredient": "valerian_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "valerian_root_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "valeriana_officinalis",
+    "cat": "h"
+  },
+  {
+    "ingredient": "vanilla",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "vanilla_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "veal",
+    "cat": "m"
+  },
+  {
+    "ingredient": "vegetable",
+    "cat": "v"
+  },
+  {
+    "ingredient": "vegetable_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "verbena_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "verbenaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "vervain",
+    "cat": "h"
+  },
+  {
+    "ingredient": "vervain_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "vetiver",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "vetiver_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "vietnamese_black_tea",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "vinegar",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "violet",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "violet_flower",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "violet_flower_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "violet_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "violet_leaf_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "violet_root",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "virdis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "vitis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "vitis_labrusca",
+    "cat": "f"
+  },
+  {
+    "ingredient": "vitis_labrusca_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "vitis_labrusca_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "wallflower",
+    "cat": "p"
+  },
+  {
+    "ingredient": "walnut",
+    "cat": "n"
+  },
+  {
+    "ingredient": "wasabi",
+    "cat": "v"
+  },
+  {
+    "ingredient": "waste_wort",
+    "cat": "p"
+  },
+  {
+    "ingredient": "water_apple",
+    "cat": "f"
+  },
+  {
+    "ingredient": "watercress",
+    "cat": "v"
+  },
+  {
+    "ingredient": "watermelon",
+    "cat": "f"
+  },
+  {
+    "ingredient": "wax_jambu",
+    "cat": "f"
+  },
+  {
+    "ingredient": "weinbrand",
+    "cat": "a"
+  },
+  {
+    "ingredient": "welsh_onion",
+    "cat": "v"
+  },
+  {
+    "ingredient": "whale",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "wheat",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "wheat_bran",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "wheat_bread",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "wheat_flake",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "wheaten_bread",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "while_thyme_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "whiskey",
+    "cat": "a"
+  },
+  {
+    "ingredient": "white_bread",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "white_currant_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "white_wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "whitefish",
+    "cat": "sf"
+  },
+  {
+    "ingredient": "whole_grain_wheat_flour",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "wild_bergamot_oil",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "wild_bergamot",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "wild_berry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "wild_grape",
+    "cat": "f"
+  },
+  {
+    "ingredient": "wild_marjoram",
+    "cat": "h"
+  },
+  {
+    "ingredient": "wild_raspberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "wild_rice",
+    "cat": "ce"
+  },
+  {
+    "ingredient": "wild_strawberry",
+    "cat": "f"
+  },
+  {
+    "ingredient": "wild_vanilla",
+    "cat": "p"
+  },
+  {
+    "ingredient": "wine",
+    "cat": "a"
+  },
+  {
+    "ingredient": "winter_melon",
+    "cat": "f"
+  },
+  {
+    "ingredient": "winter_savory",
+    "cat": "h"
+  },
+  {
+    "ingredient": "wintergreen_leaf",
+    "cat": "p"
+  },
+  {
+    "ingredient": "wintergreen_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "wood",
+    "cat": "p"
+  },
+  {
+    "ingredient": "wood_apple",
+    "cat": "f"
+  },
+  {
+    "ingredient": "wood_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "wood_spirit",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "wood_tar",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "wood_vinegar",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "wort",
+    "cat": "p"
+  },
+  {
+    "ingredient": "xanthorrhoea_hostilis",
+    "cat": "p"
+  },
+  {
+    "ingredient": "ximenia_aegyptiaca",
+    "cat": "p"
+  },
+  {
+    "ingredient": "yam",
+    "cat": "v"
+  },
+  {
+    "ingredient": "yeast",
+    "cat": "p"
+  },
+  {
+    "ingredient": "yellow_mombin",
+    "cat": "f"
+  },
+  {
+    "ingredient": "yellow_passion_fruit",
+    "cat": "f"
+  },
+  {
+    "ingredient": "yellow_passion_fruit_juice",
+    "cat": "f"
+  },
+  {
+    "ingredient": "ylangylang",
+    "cat": "fl"
+  },
+  {
+    "ingredient": "ylangylang_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "yogurt",
+    "cat": "d"
+  },
+  {
+    "ingredient": "zanthoxylum_piperitum",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "zanthoxylum_piperitum_fruit_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "zanthoxylum_rhetsa",
+    "cat": "sp"
+  },
+  {
+    "ingredient": "zanthoxylum_rhetsa_oil",
+    "cat": "pd"
+  },
+  {
+    "ingredient": "zingiberaceae",
+    "cat": "p"
+  },
+  {
+    "ingredient": "zucchini",
+    "cat": "v"
+  }
+]

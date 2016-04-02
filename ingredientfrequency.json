@@ -1,0 +1,1526 @@
+[
+  {
+    "ingredient": "egg",
+    "prevalence": 20951
+  },
+  {
+    "ingredient": "wheat",
+    "prevalence": 20782
+  },
+  {
+    "ingredient": "butter",
+    "prevalence": 20744
+  },
+  {
+    "ingredient": "onion",
+    "prevalence": 18031
+  },
+  {
+    "ingredient": "garlic",
+    "prevalence": 16893
+  },
+  {
+    "ingredient": "milk",
+    "prevalence": 12895
+  },
+  {
+    "ingredient": "vegetable_oil",
+    "prevalence": 10759
+  },
+  {
+    "ingredient": "cream",
+    "prevalence": 10152
+  },
+  {
+    "ingredient": "tomato",
+    "prevalence": 9909
+  },
+  {
+    "ingredient": "olive_oil",
+    "prevalence": 9844
+  },
+  {
+    "ingredient": "black_pepper",
+    "prevalence": 9752
+  },
+  {
+    "ingredient": "pepper",
+    "prevalence": 9060
+  },
+  {
+    "ingredient": "vanilla",
+    "prevalence": 9025
+  },
+  {
+    "ingredient": "cayenne",
+    "prevalence": 7950
+  },
+  {
+    "ingredient": "vinegar",
+    "prevalence": 7695
+  },
+  {
+    "ingredient": "cane_molasses",
+    "prevalence": 7655
+  },
+  {
+    "ingredient": "bell_pepper",
+    "prevalence": 5847
+  },
+  {
+    "ingredient": "cinnamon",
+    "prevalence": 5603
+  },
+  {
+    "ingredient": "parsley",
+    "prevalence": 5562
+  },
+  {
+    "ingredient": "chicken",
+    "prevalence": 5294
+  },
+  {
+    "ingredient": "lemon_juice",
+    "prevalence": 5033
+  },
+  {
+    "ingredient": "beef",
+    "prevalence": 4822
+  },
+  {
+    "ingredient": "cocoa",
+    "prevalence": 4801
+  },
+  {
+    "ingredient": "corn",
+    "prevalence": 4777
+  },
+  {
+    "ingredient": "bread",
+    "prevalence": 4553
+  },
+  {
+    "ingredient": "scallion",
+    "prevalence": 4342
+  },
+  {
+    "ingredient": "mustard",
+    "prevalence": 4096
+  },
+  {
+    "ingredient": "ginger",
+    "prevalence": 3816
+  },
+  {
+    "ingredient": "basil",
+    "prevalence": 3779
+  },
+  {
+    "ingredient": "celery",
+    "prevalence": 3603
+  },
+  {
+    "ingredient": "carrot",
+    "prevalence": 3570
+  },
+  {
+    "ingredient": "potato",
+    "prevalence": 3545
+  },
+  {
+    "ingredient": "chicken_broth",
+    "prevalence": 3454
+  },
+  {
+    "ingredient": "yeast",
+    "prevalence": 3397
+  },
+  {
+    "ingredient": "rice",
+    "prevalence": 3395
+  },
+  {
+    "ingredient": "mushroom",
+    "prevalence": 3317
+  },
+  {
+    "ingredient": "cheese",
+    "prevalence": 3282
+  },
+  {
+    "ingredient": "soy_sauce",
+    "prevalence": 3236
+  },
+  {
+    "ingredient": "cumin",
+    "prevalence": 3220
+  },
+  {
+    "ingredient": "oregano",
+    "prevalence": 3179
+  },
+  {
+    "ingredient": "parmesan_cheese",
+    "prevalence": 3167
+  },
+  {
+    "ingredient": "macaroni",
+    "prevalence": 3074
+  },
+  {
+    "ingredient": "lard",
+    "prevalence": 3052
+  },
+  {
+    "ingredient": "lemon",
+    "prevalence": 3046
+  },
+  {
+    "ingredient": "thyme",
+    "prevalence": 3041
+  },
+  {
+    "ingredient": "cheddar_cheese",
+    "prevalence": 3029
+  },
+  {
+    "ingredient": "cream_cheese",
+    "prevalence": 2839
+  },
+  {
+    "ingredient": "walnut",
+    "prevalence": 2741
+  },
+  {
+    "ingredient": "starch",
+    "prevalence": 2585
+  },
+  {
+    "ingredient": "green_bell_pepper",
+    "prevalence": 2578
+  },
+  {
+    "ingredient": "nutmeg",
+    "prevalence": 2512
+  },
+  {
+    "ingredient": "honey",
+    "prevalence": 2483
+  },
+  {
+    "ingredient": "apple",
+    "prevalence": 2418
+  },
+  {
+    "ingredient": "almond",
+    "prevalence": 2320
+  },
+  {
+    "ingredient": "cilantro",
+    "prevalence": 2249
+  },
+  {
+    "ingredient": "pecan",
+    "prevalence": 2176
+  },
+  {
+    "ingredient": "white_wine",
+    "prevalence": 2166
+  },
+  {
+    "ingredient": "bacon",
+    "prevalence": 2156
+  },
+  {
+    "ingredient": "pork",
+    "prevalence": 1964
+  },
+  {
+    "ingredient": "raisin",
+    "prevalence": 1903
+  },
+  {
+    "ingredient": "bean",
+    "prevalence": 1903
+  },
+  {
+    "ingredient": "rosemary",
+    "prevalence": 1890
+  },
+  {
+    "ingredient": "fish",
+    "prevalence": 1879
+  },
+  {
+    "ingredient": "cucumber",
+    "prevalence": 1810
+  },
+  {
+    "ingredient": "olive",
+    "prevalence": 1797
+  },
+  {
+    "ingredient": "coconut",
+    "prevalence": 1710
+  },
+  {
+    "ingredient": "orange",
+    "prevalence": 1709
+  },
+  {
+    "ingredient": "orange_juice",
+    "prevalence": 1700
+  },
+  {
+    "ingredient": "tamarind",
+    "prevalence": 1663
+  },
+  {
+    "ingredient": "vegetable",
+    "prevalence": 1660
+  },
+  {
+    "ingredient": "buttermilk",
+    "prevalence": 1633
+  },
+  {
+    "ingredient": "pineapple",
+    "prevalence": 1616
+  },
+  {
+    "ingredient": "shrimp",
+    "prevalence": 1543
+  },
+  {
+    "ingredient": "coriander",
+    "prevalence": 1514
+  },
+  {
+    "ingredient": "bay",
+    "prevalence": 1472
+  },
+  {
+    "ingredient": "lime_juice",
+    "prevalence": 1427
+  },
+  {
+    "ingredient": "gelatin",
+    "prevalence": 1410
+  },
+  {
+    "ingredient": "red_wine",
+    "prevalence": 1393
+  },
+  {
+    "ingredient": "pork_sausage",
+    "prevalence": 1362
+  },
+  {
+    "ingredient": "sesame_oil",
+    "prevalence": 1341
+  },
+  {
+    "ingredient": "chive",
+    "prevalence": 1315
+  },
+  {
+    "ingredient": "seed",
+    "prevalence": 1313
+  },
+  {
+    "ingredient": "ham",
+    "prevalence": 1291
+  },
+  {
+    "ingredient": "mozzarella_cheese",
+    "prevalence": 1290
+  },
+  {
+    "ingredient": "oat",
+    "prevalence": 1267
+  },
+  {
+    "ingredient": "turmeric",
+    "prevalence": 1233
+  },
+  {
+    "ingredient": "nut",
+    "prevalence": 1219
+  },
+  {
+    "ingredient": "shallot",
+    "prevalence": 1187
+  },
+  {
+    "ingredient": "lettuce",
+    "prevalence": 1152
+  },
+  {
+    "ingredient": "cider",
+    "prevalence": 1120
+  },
+  {
+    "ingredient": "dill",
+    "prevalence": 1108
+  },
+  {
+    "ingredient": "pea",
+    "prevalence": 1099
+  },
+  {
+    "ingredient": "zucchini",
+    "prevalence": 1093
+  },
+  {
+    "ingredient": "cherry",
+    "prevalence": 1084
+  },
+  {
+    "ingredient": "lime",
+    "prevalence": 1083
+  },
+  {
+    "ingredient": "strawberry",
+    "prevalence": 1078
+  },
+  {
+    "ingredient": "yogurt",
+    "prevalence": 1044
+  },
+  {
+    "ingredient": "soybean",
+    "prevalence": 1034
+  },
+  {
+    "ingredient": "peanut_butter",
+    "prevalence": 995
+  },
+  {
+    "ingredient": "celery_oil",
+    "prevalence": 994
+  },
+  {
+    "ingredient": "banana",
+    "prevalence": 984
+  },
+  {
+    "ingredient": "meat",
+    "prevalence": 970
+  },
+  {
+    "ingredient": "tabasco_pepper",
+    "prevalence": 965
+  },
+  {
+    "ingredient": "milk_fat",
+    "prevalence": 947
+  },
+  {
+    "ingredient": "cabbage",
+    "prevalence": 938
+  },
+  {
+    "ingredient": "mint",
+    "prevalence": 932
+  },
+  {
+    "ingredient": "cranberry",
+    "prevalence": 916
+  },
+  {
+    "ingredient": "fennel",
+    "prevalence": 907
+  },
+  {
+    "ingredient": "sage",
+    "prevalence": 903
+  },
+  {
+    "ingredient": "broccoli",
+    "prevalence": 901
+  },
+  {
+    "ingredient": "turkey",
+    "prevalence": 893
+  },
+  {
+    "ingredient": "wine",
+    "prevalence": 877
+  },
+  {
+    "ingredient": "fenugreek",
+    "prevalence": 871
+  },
+  {
+    "ingredient": "beef_broth",
+    "prevalence": 835
+  },
+  {
+    "ingredient": "grape_juice",
+    "prevalence": 811
+  },
+  {
+    "ingredient": "pumpkin",
+    "prevalence": 803
+  },
+  {
+    "ingredient": "raspberry",
+    "prevalence": 784
+  },
+  {
+    "ingredient": "whole_grain_wheat_flour",
+    "prevalence": 732
+  },
+  {
+    "ingredient": "coffee",
+    "prevalence": 716
+  },
+  {
+    "ingredient": "lemon_peel",
+    "prevalence": 715
+  },
+  {
+    "ingredient": "sesame_seed",
+    "prevalence": 655
+  },
+  {
+    "ingredient": "avocado",
+    "prevalence": 649
+  },
+  {
+    "ingredient": "sherry",
+    "prevalence": 630
+  },
+  {
+    "ingredient": "sake",
+    "prevalence": 624
+  },
+  {
+    "ingredient": "feta_cheese",
+    "prevalence": 621
+  },
+  {
+    "ingredient": "apricot",
+    "prevalence": 620
+  },
+  {
+    "ingredient": "rum",
+    "prevalence": 602
+  },
+  {
+    "ingredient": "roasted_sesame_seed",
+    "prevalence": 593
+  },
+  {
+    "ingredient": "orange_peel",
+    "prevalence": 572
+  },
+  {
+    "ingredient": "squash",
+    "prevalence": 558
+  },
+  {
+    "ingredient": "crab",
+    "prevalence": 550
+  },
+  {
+    "ingredient": "marjoram",
+    "prevalence": 528
+  },
+  {
+    "ingredient": "peach",
+    "prevalence": 528
+  },
+  {
+    "ingredient": "swiss_cheese",
+    "prevalence": 522
+  },
+  {
+    "ingredient": "sweet_potato",
+    "prevalence": 518
+  },
+  {
+    "ingredient": "shiitake",
+    "prevalence": 511
+  },
+  {
+    "ingredient": "radish",
+    "prevalence": 509
+  },
+  {
+    "ingredient": "fruit",
+    "prevalence": 481
+  },
+  {
+    "ingredient": "tarragon",
+    "prevalence": 476
+  },
+  {
+    "ingredient": "black_bean",
+    "prevalence": 474
+  },
+  {
+    "ingredient": "lamb",
+    "prevalence": 472
+  },
+  {
+    "ingredient": "maple_syrup",
+    "prevalence": 471
+  },
+  {
+    "ingredient": "pear",
+    "prevalence": 468
+  },
+  {
+    "ingredient": "blueberry",
+    "prevalence": 465
+  },
+  {
+    "ingredient": "clam",
+    "prevalence": 461
+  },
+  {
+    "ingredient": "smoke",
+    "prevalence": 456
+  },
+  {
+    "ingredient": "peanut",
+    "prevalence": 453
+  },
+  {
+    "ingredient": "tuna",
+    "prevalence": 443
+  },
+  {
+    "ingredient": "kidney_bean",
+    "prevalence": 442
+  },
+  {
+    "ingredient": "asparagus",
+    "prevalence": 438
+  },
+  {
+    "ingredient": "salmon",
+    "prevalence": 434
+  },
+  {
+    "ingredient": "leek",
+    "prevalence": 411
+  },
+  {
+    "ingredient": "chickpea",
+    "prevalence": 404
+  },
+  {
+    "ingredient": "blue_cheese",
+    "prevalence": 395
+  },
+  {
+    "ingredient": "brandy",
+    "prevalence": 395
+  },
+  {
+    "ingredient": "artichoke",
+    "prevalence": 391
+  },
+  {
+    "ingredient": "mango",
+    "prevalence": 388
+  },
+  {
+    "ingredient": "horseradish",
+    "prevalence": 387
+  },
+  {
+    "ingredient": "date",
+    "prevalence": 375
+  },
+  {
+    "ingredient": "white_bread",
+    "prevalence": 370
+  },
+  {
+    "ingredient": "cardamom",
+    "prevalence": 368
+  },
+  {
+    "ingredient": "oyster",
+    "prevalence": 356
+  },
+  {
+    "ingredient": "cottage_cheese",
+    "prevalence": 348
+  },
+  {
+    "ingredient": "grape",
+    "prevalence": 345
+  },
+  {
+    "ingredient": "brown_rice",
+    "prevalence": 337
+  },
+  {
+    "ingredient": "cauliflower",
+    "prevalence": 325
+  },
+  {
+    "ingredient": "cured_pork",
+    "prevalence": 314
+  },
+  {
+    "ingredient": "egg_noodle",
+    "prevalence": 308
+  },
+  {
+    "ingredient": "beer",
+    "prevalence": 303
+  },
+  {
+    "ingredient": "hazelnut",
+    "prevalence": 288
+  },
+  {
+    "ingredient": "mandarin",
+    "prevalence": 278
+  },
+  {
+    "ingredient": "plum",
+    "prevalence": 277
+  },
+  {
+    "ingredient": "romano_cheese",
+    "prevalence": 275
+  },
+  {
+    "ingredient": "pimento",
+    "prevalence": 270
+  },
+  {
+    "ingredient": "smoked_sausage",
+    "prevalence": 268
+  },
+  {
+    "ingredient": "scallop",
+    "prevalence": 268
+  },
+  {
+    "ingredient": "goat_cheese",
+    "prevalence": 259
+  },
+  {
+    "ingredient": "lentil",
+    "prevalence": 250
+  },
+  {
+    "ingredient": "currant",
+    "prevalence": 241
+  },
+  {
+    "ingredient": "saffron",
+    "prevalence": 236
+  },
+  {
+    "ingredient": "barley",
+    "prevalence": 232
+  },
+  {
+    "ingredient": "beet",
+    "prevalence": 232
+  },
+  {
+    "ingredient": "caraway",
+    "prevalence": 230
+  },
+  {
+    "ingredient": "squid",
+    "prevalence": 228
+  },
+  {
+    "ingredient": "corn_flake",
+    "prevalence": 225
+  },
+  {
+    "ingredient": "anise",
+    "prevalence": 223
+  },
+  {
+    "ingredient": "roasted_beef",
+    "prevalence": 222
+  },
+  {
+    "ingredient": "pistachio",
+    "prevalence": 219
+  },
+  {
+    "ingredient": "peanut_oil",
+    "prevalence": 210
+  },
+  {
+    "ingredient": "cereal",
+    "prevalence": 204
+  },
+  {
+    "ingredient": "cashew",
+    "prevalence": 199
+  },
+  {
+    "ingredient": "veal",
+    "prevalence": 198
+  },
+  {
+    "ingredient": "seaweed",
+    "prevalence": 188
+  },
+  {
+    "ingredient": "sauerkraut",
+    "prevalence": 184
+  },
+  {
+    "ingredient": "turnip",
+    "prevalence": 183
+  },
+  {
+    "ingredient": "berry",
+    "prevalence": 182
+  },
+  {
+    "ingredient": "kelp",
+    "prevalence": 178
+  },
+  {
+    "ingredient": "tomato_juice",
+    "prevalence": 176
+  },
+  {
+    "ingredient": "cod",
+    "prevalence": 174
+  },
+  {
+    "ingredient": "rhubarb",
+    "prevalence": 169
+  },
+  {
+    "ingredient": "blackberry",
+    "prevalence": 169
+  },
+  {
+    "ingredient": "provolone_cheese",
+    "prevalence": 167
+  },
+  {
+    "ingredient": "roasted_peanut",
+    "prevalence": 165
+  },
+  {
+    "ingredient": "mussel",
+    "prevalence": 163
+  },
+  {
+    "ingredient": "citrus",
+    "prevalence": 163
+  },
+  {
+    "ingredient": "corn_grit",
+    "prevalence": 162
+  },
+  {
+    "ingredient": "chinese_cabbage",
+    "prevalence": 161
+  },
+  {
+    "ingredient": "melon",
+    "prevalence": 157
+  },
+  {
+    "ingredient": "bourbon_whiskey",
+    "prevalence": 156
+  },
+  {
+    "ingredient": "chicory",
+    "prevalence": 153
+  },
+  {
+    "ingredient": "lima_bean",
+    "prevalence": 149
+  },
+  {
+    "ingredient": "whiskey",
+    "prevalence": 148
+  },
+  {
+    "ingredient": "tequila",
+    "prevalence": 142
+  },
+  {
+    "ingredient": "lovage",
+    "prevalence": 142
+  },
+  {
+    "ingredient": "peppermint",
+    "prevalence": 142
+  },
+  {
+    "ingredient": "fig",
+    "prevalence": 139
+  },
+  {
+    "ingredient": "parsnip",
+    "prevalence": 139
+  },
+  {
+    "ingredient": "lemongrass",
+    "prevalence": 137
+  },
+  {
+    "ingredient": "watercress",
+    "prevalence": 132
+  },
+  {
+    "ingredient": "rye_flour",
+    "prevalence": 130
+  },
+  {
+    "ingredient": "savory",
+    "prevalence": 127
+  },
+  {
+    "ingredient": "lobster",
+    "prevalence": 126
+  },
+  {
+    "ingredient": "roasted_pork",
+    "prevalence": 125
+  },
+  {
+    "ingredient": "grapefruit",
+    "prevalence": 117
+  },
+  {
+    "ingredient": "mace",
+    "prevalence": 115
+  },
+  {
+    "ingredient": "endive",
+    "prevalence": 114
+  },
+  {
+    "ingredient": "brassica",
+    "prevalence": 109
+  },
+  {
+    "ingredient": "watermelon",
+    "prevalence": 108
+  },
+  {
+    "ingredient": "porcini",
+    "prevalence": 106
+  },
+  {
+    "ingredient": "enokidake",
+    "prevalence": 106
+  },
+  {
+    "ingredient": "kiwi",
+    "prevalence": 105
+  },
+  {
+    "ingredient": "wasabi",
+    "prevalence": 103
+  },
+  {
+    "ingredient": "macadamia_nut",
+    "prevalence": 102
+  },
+  {
+    "ingredient": "tea",
+    "prevalence": 101
+  },
+  {
+    "ingredient": "okra",
+    "prevalence": 100
+  },
+  {
+    "ingredient": "lime_peel_oil",
+    "prevalence": 100
+  },
+  {
+    "ingredient": "champagne_wine",
+    "prevalence": 99
+  },
+  {
+    "ingredient": "popcorn",
+    "prevalence": 97
+  },
+  {
+    "ingredient": "smoked_salmon",
+    "prevalence": 97
+  },
+  {
+    "ingredient": "kale",
+    "prevalence": 96
+  },
+  {
+    "ingredient": "brussels_sprout",
+    "prevalence": 91
+  },
+  {
+    "ingredient": "rye_bread",
+    "prevalence": 91
+  },
+  {
+    "ingredient": "star_anise",
+    "prevalence": 91
+  },
+  {
+    "ingredient": "thai_pepper",
+    "prevalence": 87
+  },
+  {
+    "ingredient": "anise_seed",
+    "prevalence": 84
+  },
+  {
+    "ingredient": "yam",
+    "prevalence": 84
+  },
+  {
+    "ingredient": "bitter_orange",
+    "prevalence": 83
+  },
+  {
+    "ingredient": "wheat_bread",
+    "prevalence": 83
+  },
+  {
+    "ingredient": "root",
+    "prevalence": 74
+  },
+  {
+    "ingredient": "buckwheat",
+    "prevalence": 69
+  },
+  {
+    "ingredient": "gin",
+    "prevalence": 68
+  },
+  {
+    "ingredient": "catfish",
+    "prevalence": 68
+  },
+  {
+    "ingredient": "cognac",
+    "prevalence": 66
+  },
+  {
+    "ingredient": "nira",
+    "prevalence": 66
+  },
+  {
+    "ingredient": "potato_chip",
+    "prevalence": 65
+  },
+  {
+    "ingredient": "rose",
+    "prevalence": 63
+  },
+  {
+    "ingredient": "lavender",
+    "prevalence": 62
+  },
+  {
+    "ingredient": "oatmeal",
+    "prevalence": 60
+  },
+  {
+    "ingredient": "red_kidney_bean",
+    "prevalence": 59
+  },
+  {
+    "ingredient": "matsutake",
+    "prevalence": 56
+  },
+  {
+    "ingredient": "chervil",
+    "prevalence": 52
+  },
+  {
+    "ingredient": "truffle",
+    "prevalence": 52
+  },
+  {
+    "ingredient": "chicken_liver",
+    "prevalence": 51
+  },
+  {
+    "ingredient": "nectarine",
+    "prevalence": 50
+  },
+  {
+    "ingredient": "katsuobushi",
+    "prevalence": 49
+  },
+  {
+    "ingredient": "port_wine",
+    "prevalence": 49
+  },
+  {
+    "ingredient": "bone_oil",
+    "prevalence": 49
+  },
+  {
+    "ingredient": "sour_cherry",
+    "prevalence": 48
+  },
+  {
+    "ingredient": "sour_milk",
+    "prevalence": 46
+  },
+  {
+    "ingredient": "papaya",
+    "prevalence": 46
+  },
+  {
+    "ingredient": "octopus",
+    "prevalence": 45
+  },
+  {
+    "ingredient": "mackerel",
+    "prevalence": 44
+  },
+  {
+    "ingredient": "tangerine",
+    "prevalence": 44
+  },
+  {
+    "ingredient": "gruyère_cheese",
+    "prevalence": 44
+  },
+  {
+    "ingredient": "liver",
+    "prevalence": 41
+  },
+  {
+    "ingredient": "black_tea",
+    "prevalence": 38
+  },
+  {
+    "ingredient": "palm",
+    "prevalence": 38
+  },
+  {
+    "ingredient": "apple_brandy",
+    "prevalence": 37
+  },
+  {
+    "ingredient": "frankfurter",
+    "prevalence": 37
+  },
+  {
+    "ingredient": "malt",
+    "prevalence": 37
+  },
+  {
+    "ingredient": "cacao",
+    "prevalence": 35
+  },
+  {
+    "ingredient": "rutabaga",
+    "prevalence": 34
+  },
+  {
+    "ingredient": "galanga",
+    "prevalence": 34
+  },
+  {
+    "ingredient": "cherry_brandy",
+    "prevalence": 34
+  },
+  {
+    "ingredient": "red_bean",
+    "prevalence": 33
+  },
+  {
+    "ingredient": "juniper_berry",
+    "prevalence": 33
+  },
+  {
+    "ingredient": "wood",
+    "prevalence": 33
+  },
+  {
+    "ingredient": "green_tea",
+    "prevalence": 32
+  },
+  {
+    "ingredient": "haddock",
+    "prevalence": 31
+  },
+  {
+    "ingredient": "flower",
+    "prevalence": 30
+  },
+  {
+    "ingredient": "black_mustard_seed_oil",
+    "prevalence": 28
+  },
+  {
+    "ingredient": "quince",
+    "prevalence": 28
+  },
+  {
+    "ingredient": "kumquat",
+    "prevalence": 28
+  },
+  {
+    "ingredient": "shellfish",
+    "prevalence": 27
+  },
+  {
+    "ingredient": "munster_cheese",
+    "prevalence": 27
+  },
+  {
+    "ingredient": "chayote",
+    "prevalence": 26
+  },
+  {
+    "ingredient": "prawn",
+    "prevalence": 26
+  },
+  {
+    "ingredient": "black_sesame_seed",
+    "prevalence": 26
+  },
+  {
+    "ingredient": "caviar",
+    "prevalence": 26
+  },
+  {
+    "ingredient": "roquefort_cheese",
+    "prevalence": 23
+  },
+  {
+    "ingredient": "bartlett_pear",
+    "prevalence": 23
+  },
+  {
+    "ingredient": "cassava",
+    "prevalence": 22
+  },
+  {
+    "ingredient": "licorice",
+    "prevalence": 20
+  },
+  {
+    "ingredient": "prickly_pear",
+    "prevalence": 20
+  },
+  {
+    "ingredient": "passion_fruit",
+    "prevalence": 20
+  },
+  {
+    "ingredient": "eel",
+    "prevalence": 20
+  },
+  {
+    "ingredient": "mung_bean",
+    "prevalence": 19
+  },
+  {
+    "ingredient": "orange_flower",
+    "prevalence": 18
+  },
+  {
+    "ingredient": "sassafras",
+    "prevalence": 18
+  },
+  {
+    "ingredient": "coconut_oil",
+    "prevalence": 17
+  },
+  {
+    "ingredient": "cabernet_sauvignon_wine",
+    "prevalence": 17
+  },
+  {
+    "ingredient": "roasted_meat",
+    "prevalence": 15
+  },
+  {
+    "ingredient": "sumac",
+    "prevalence": 14
+  },
+  {
+    "ingredient": "guava",
+    "prevalence": 13
+  },
+  {
+    "ingredient": "salmon_roe",
+    "prevalence": 13
+  },
+  {
+    "ingredient": "artemisia",
+    "prevalence": 13
+  },
+  {
+    "ingredient": "japanese_plum",
+    "prevalence": 13
+  },
+  {
+    "ingredient": "camembert_cheese",
+    "prevalence": 12
+  },
+  {
+    "ingredient": "concord_grape",
+    "prevalence": 12
+  },
+  {
+    "ingredient": "armagnac",
+    "prevalence": 11
+  },
+  {
+    "ingredient": "pear_brandy",
+    "prevalence": 11
+  },
+  {
+    "ingredient": "black_currant",
+    "prevalence": 11
+  },
+  {
+    "ingredient": "herring",
+    "prevalence": 10
+  },
+  {
+    "ingredient": "clove",
+    "prevalence": 10
+  },
+  {
+    "ingredient": "huckleberry",
+    "prevalence": 10
+  },
+  {
+    "ingredient": "mandarin_peel",
+    "prevalence": 10
+  },
+  {
+    "ingredient": "beef_liver",
+    "prevalence": 10
+  },
+  {
+    "ingredient": "ouzo",
+    "prevalence": 9
+  },
+  {
+    "ingredient": "litchi",
+    "prevalence": 9
+  },
+  {
+    "ingredient": "peppermint_oil",
+    "prevalence": 9
+  },
+  {
+    "ingredient": "baked_potato",
+    "prevalence": 9
+  },
+  {
+    "ingredient": "leaf",
+    "prevalence": 9
+  },
+  {
+    "ingredient": "lingonberry",
+    "prevalence": 9
+  },
+  {
+    "ingredient": "condiment",
+    "prevalence": 9
+  },
+  {
+    "ingredient": "gardenia",
+    "prevalence": 9
+  },
+  {
+    "ingredient": "sunflower_oil",
+    "prevalence": 8
+  },
+  {
+    "ingredient": "grape_brandy",
+    "prevalence": 8
+  },
+  {
+    "ingredient": "black_raspberry",
+    "prevalence": 8
+  },
+  {
+    "ingredient": "bergamot",
+    "prevalence": 7
+  },
+  {
+    "ingredient": "jasmine",
+    "prevalence": 7
+  },
+  {
+    "ingredient": "carob",
+    "prevalence": 7
+  },
+  {
+    "ingredient": "kohlrabi",
+    "prevalence": 6
+  },
+  {
+    "ingredient": "smoked_fish",
+    "prevalence": 6
+  },
+  {
+    "ingredient": "violet",
+    "prevalence": 6
+  },
+  {
+    "ingredient": "spearmint",
+    "prevalence": 5
+  },
+  {
+    "ingredient": "elderberry",
+    "prevalence": 5
+  },
+  {
+    "ingredient": "pork_liver",
+    "prevalence": 5
+  },
+  {
+    "ingredient": "sea_algae",
+    "prevalence": 4
+  },
+  {
+    "ingredient": "citrus_peel",
+    "prevalence": 4
+  },
+  {
+    "ingredient": "blackberry_brandy",
+    "prevalence": 4
+  },
+  {
+    "ingredient": "hop",
+    "prevalence": 3
+  },
+  {
+    "ingredient": "chamomile",
+    "prevalence": 3
+  },
+  {
+    "ingredient": "mutton",
+    "prevalence": 3
+  },
+  {
+    "ingredient": "roasted_almond",
+    "prevalence": 3
+  },
+  {
+    "ingredient": "carnation",
+    "prevalence": 3
+  },
+  {
+    "ingredient": "balm",
+    "prevalence": 3
+  },
+  {
+    "ingredient": "rapeseed",
+    "prevalence": 3
+  },
+  {
+    "ingredient": "raw_beef",
+    "prevalence": 2
+  },
+  {
+    "ingredient": "soybean_oil",
+    "prevalence": 2
+  },
+  {
+    "ingredient": "sheep_cheese",
+    "prevalence": 2
+  },
+  {
+    "ingredient": "red_algae",
+    "prevalence": 2
+  },
+  {
+    "ingredient": "pimenta",
+    "prevalence": 2
+  },
+  {
+    "ingredient": "laurel",
+    "prevalence": 2
+  },
+  {
+    "ingredient": "holy_basil",
+    "prevalence": 2
+  },
+  {
+    "ingredient": "strawberry_juice",
+    "prevalence": 2
+  },
+  {
+    "ingredient": "geranium",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "roasted_hazelnut",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "durian",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "muscat_grape",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "roasted_pecan",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "roasted_nut",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "mate",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "jasmine_tea",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "jamaican_rum",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "angelica",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "pelargonium",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "sturgeon_caviar",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "beech",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "lilac_flower_oil",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "strawberry_jam",
+    "prevalence": 1
+  },
+  {
+    "ingredient": "emmental_cheese",
+    "prevalence": 1
+  }
+]
