@@ -4,8 +4,13 @@ new Vue({
     ingredient: ''
   },
   methods: {
-    listIngredientPairings: function(ingredient){
-
+    listIngredientPairings: function(data, ingredient){
+      for(key in data){
+        if(key === ingredient){
+          console.log(data[key]);
+          return this.ingredient = data[key];
+        }
+      }
     }
   }
 })

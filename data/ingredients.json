@@ -1,4 +1,4 @@
-[{
+{
   "Almonds": ["apples", "apricots", "caramel", "chocolate", "cononut", "cream", "plums", "prunes", "raisins", "rice", "strawberries"],
   "Anchovies": ["eggs", "hard boiled eggs", "garlic", "lemon", "olives", "onions", "parsley"],
   "Apples": ["almonds","bacon", "blackberries", "blue cheese", "brandy", "brown sugar", "butter", "black pepper", "butterscotch", "caramel", "celery", "cheese", "cinnamon", "cloves", "cognac", "coriander", "cranberries", "cream", "currants", "custard", "dates", "ginger", "Grand Marnier", "hazelnuts", "honey", "horseradish", "maple syrup", "molasses", "nutmeg", "nuts", "oatmeal", "oranges", "pears", "pistachios", "praline", "prunes", "raisins", "rosemary", "rum", "sauerkraut", "sausages", "sherry", "sour cream", "sugar", "vanilla", "vermouth", "vinegar", "walnuts", "wine", "yogurt"],
@@ -179,4 +179,4 @@
   "White Beans": ["bacon", "bay leaf", "chervil", "chives", "cream", "garlic", "maple syrup", "molasses", "olive oil", "onions", "parsley", "rosemary", "rum", "sage", "shallots", "red wine"],
   "White Chocolate": ["bananas", "berries", "blackberries", "boysenberries", "cherries", "coconuts", "hazelnuts", "oranges", "raspberries", "rum", "violets"],
   "Zucchini": ["anchovies", "basil", "bread crumbs", "butter", "cayenne","cheese", "cilantro", "cinnamon", "cloves", "cream", "dill", "eggplant", "garlic", "hazelnuts", "lemon", "marjoram", "mint", "mushrooms", "olive oil", "onions", "oregano", "parsley", "pesto", "rosemary", "sage", "salmon", "tarragon", "thyme", "tomatoes", "vinegar", "walnuts"]
-}]
+}
