@@ -3,22 +3,32 @@
   <head>
     <meta charset="utf-8">
     <title>Flavor Saveur</title>
+    <link rel="stylesheet" href="css/reset">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.0.17/css/bulma.min.css">
     <link href='https://fonts.googleapis.com/css?family=Lateef' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/reset">
     <link rel="stylesheet" href="css/style">
   </head>
-  <body>
+  <body id="app">
+    <div class= "section">
     <div class="container is-fluid">
-      <div class="header text is-centered">
+      <div class="header is-centered">
         <h1 class="title is-1">Flavor Saveur</h1>
       </div>
-      <div class="section is-centered">
-        <input type="text is-centered">
-      </div>
     </div>
+  </div>
+    <div class="container is-fluid">
+      <div class="is-centered" id="app">
+
+        <input type="text is-centered" v-model="ingredient">
+        <p>{{ ingredient }}</p>
 
 
-  <script src="script.js" charset="utf-8"></script>
+    </div>
+  </div>
+
+  <script src="node_modules/vue/dist/vue.js"></script>
+  <script src="node_modules/vue-resource/dist/vue-resource.js"></script>
+  <script src="scripts/script.js" charset="utf-8"></script>
+  <script src="scripts/vue.js" charset="utf-8"></script>
   </body>
 </html>

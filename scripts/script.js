@@ -1,5 +1,5 @@
-var file = require('./data/ingredientcompounds');
-var lookup = require('./data/temp');
+// var file = require('./data/ingredientcompounds');
+var lookup = require('../data/ingredients');
 
 function myParser(data){
   for(key in data){
@@ -10,7 +10,7 @@ function myParser(data){
 }
 
 function lookupParser(data, ingredient){
-  // console.log(data);
+  console.log(data);
   for(key in data){
     if(key === ingredient){
       console.log(data[key]);
