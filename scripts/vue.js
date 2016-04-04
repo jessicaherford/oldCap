@@ -4,14 +4,14 @@ new Vue({
     ingredient: ''
   },
   methods: {
-    listIngredientPairings: function(data, ingredient){
-      for(key in data){
-        if(key === ingredient){
-          console.log(data[key]);
-          return this.ingredient = data[key];
-        }
-      }
-    }
+    // listIngredientPairings: function(data, ingredient){
+    //   for(key in data){
+    //     if(key === ingredient){
+    //       console.log(data[key]);
+    //       return this.ingredient = data[key];
+    //     }
+    //   }
+    // }
   }
 })
 

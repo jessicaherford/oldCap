@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jessicaherford/flavorSaveur#readme",
   "dependencies": {
+    "browserify": "^13.0.0",
     "require": "^2.4.20",
     "vue": "^1.0.20",
     "vue-resource": "^0.7.0"
