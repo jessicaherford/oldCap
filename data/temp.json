@@ -173,10 +173,10 @@
   "Veal": ["anchovies", "apples", "artichokes", "arugula", "bacon", "basil", "bay leaves", "bread crumbs", "butter", "capers", "carrots", "cheese", "chervil", "cider", "cloves", "corn", "cream", "dill", "endive", "foie gras", "garlic", "ginger", "grapefruit", "hame", "leeks", "lemon", "lime", "Madeira", "Marsala", "morels", "Mornay sauce", "mushrooms", "mustard", "olive oil", "onions", "paprika", "Parma ham", "parsley", "black pepper", "peppers", "pistachios", "potatoes, "rosemary" , "sage", "salmon", "shallots", "sorrel", "sour cream", "spinach", "sweetbreads", "tapenade", "tarragon", "thyme", "tomatoes", "truffles", "tuna", "verbena", "vermouth"],
   "Venison": ["apples", "bacon", "bananas", "barley", "bay leaf", "bearnaise sauce", "brandy", "cherries", "chestnuts", "chiles", "cider", "coriander seeds", "cream", "currants", "garlic", "goat cheese", "horseradish", "huckleberries", "juniper berreis", "Madeira", "marjoram", "mushrooms", "mustard", "onions", "oranges", "parsnips", "pears", "black pepper", "pomegranates", "port", "prickly pears", "prunes", "rosemary", "sweet potatoes", "tarragon", "thyme", "vinegar", "wine"],
   "Walnuts": ["caramel", "cheese", "fish", "mushrooms", "pork", "port", "raisins", "salads", "sherry", "zucchini"],
-  "Watercress"
-
-
+  "Watercress": ["beets", "chicory", "eggs", "endive", "mustard", "oranges", "oregano", "parsley", "thyme", "vinaigrette", "walnuts"],
+  "Yams": ["apricots", "butter", "persimmons", "maple"],
+  "Yogurt": ["apples", "bananas", "blueberries", "carrots", "coconuts", "cucumbers", "granola", "honey", "mint", "nuts", "oats", "onion", "peaches", "radishes", "raspberries", "strawberries", "watercress"],
   "White Beans": ["bacon", "bay leaf", "chervil", "chives", "cream", "garlic", "maple syrup", "molasses", "olive oil", "onions", "parsley", "rosemary", "rum", "sage", "shallots", "red wine"],
   "White Chocolate": ["bananas", "berries", "blackberries", "boysenberries", "cherries", "coconuts", "hazelnuts", "oranges", "raspberries", "rum", "violets"],
-  "Zucchini": ["anchovies", "basil", "bread crumbs", "butter", "cayenne","cheese", "cilantro", "cinnamon", "cloves", "cream", "dill", "eggplant", "garlic", "hazelnuts", "lemon", "marjoram", "mint", "mushrooms", "olive oil", "onions", "oregano", "parsley", "pesto", "rosemary", "sage", "salmon", "tarragon", "thyme", "tomatoes", "vinaigrette"],
+  "Zucchini": ["anchovies", "basil", "bread crumbs", "butter", "cayenne","cheese", "cilantro", "cinnamon", "cloves", "cream", "dill", "eggplant", "garlic", "hazelnuts", "lemon", "marjoram", "mint", "mushrooms", "olive oil", "onions", "oregano", "parsley", "pesto", "rosemary", "sage", "salmon", "tarragon", "thyme", "tomatoes", "vinegar", "walnuts"],
 }
