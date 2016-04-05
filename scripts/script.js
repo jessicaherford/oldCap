@@ -1,7 +1,9 @@
+// var express = require('express');
+
 // var file = require('./data/ingredientcompounds');
+// var fs = require('fs');
 
 // var lookup = require('../data/ingredients');
-
 
 // function myParser(data){
 //   for(key in data){
@@ -20,4 +22,4 @@ function lookupParser(data, ingredient){
 }
 
 // myParser(file);
-lookupParser("../data/ingredients", "Apples");
+// lookupParser(lookup, "Apples");

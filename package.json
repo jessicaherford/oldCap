@@ -1,8 +1,8 @@
-{
+[{
   "name": "flavorsaveur",
   "version": "1.0.0",
   "description": "An app that helps you pair ingredients based off of flavor compounds.",
-  "main": "script.js",
+  "main": "scripts/script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,8 +18,13 @@
   "homepage": "https://github.com/jessicaherford/flavorSaveur#readme",
   "dependencies": {
     "browserify": "^13.0.0",
+    "express": "^4.13.4",
+    "file-system": "^2.2.1",
+    "http": "0.0.0",
+    "install": "^0.6.1",
+    "npm": "^3.8.5",
     "require": "^2.4.20",
     "vue": "^1.0.20",
     "vue-resource": "^0.7.0"
   }
-}
+}]
