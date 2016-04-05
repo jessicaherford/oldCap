@@ -2,7 +2,7 @@
   "name": "flavorsaveur",
   "version": "1.0.0",
   "engines": {
-   "node": "5.0.0"
+   "npm": "3.8.3"
  },
   "description": "An app that helps you pair ingredients based off of flavor compounds.",
   "main": "scripts/script.js",
