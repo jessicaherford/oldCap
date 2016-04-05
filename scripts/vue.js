@@ -34,6 +34,7 @@ new Vue({
     //   alert("HI");
     // }
     listIngredientPairings: function(data, ingredient){
+      var pairedIngredients = [];
       // this.$http.get(lookup, function(data, key, ingredient){
       var data = {
         "Almonds": ["apples", "apricots", "caramel", "chocolate", "cononut", "cream", "plums", "prunes", "raisins", "rice", "strawberries"],
@@ -218,10 +219,16 @@ new Vue({
         "Zucchini": ["anchovies", "basil", "bread crumbs", "butter", "cayenne","cheese", "cilantro", "cinnamon", "cloves", "cream", "dill", "eggplant", "garlic", "hazelnuts", "lemon", "marjoram", "mint", "mushrooms", "olive oil", "onions", "oregano", "parsley", "pesto", "rosemary", "sage", "salmon", "tarragon", "thyme", "tomatoes", "vinegar", "walnuts"]
       };
       if(data[this.ingredient]){
-        console.log(data);
         this.ingredient = data[this.ingredient];
-        console.log(data[this.ingredient]);
-      }
+        pairedIngredients.push([this.ingredient]);
+        console.log(pairedIngredients[0][0]);
+        pairedIngredients = pairedIngredients[0][0];
+        return pairedIngredients;
+       }
+       else{
+         alert("Please try again, ingredient not found!");
+       }
+
       // for(key in data){
       //   if(key === ingredient){
       //     console.log(data[key]);

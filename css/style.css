@@ -4,7 +4,33 @@
 
 input{
   display: block;
-  margin: 20px auto;
+  margin: 40px auto;
   width: 400px;
 
+}
+
+.ingredientDiv{
+  display: block;
+  margin: 20px auto;
+  width: 800px;
+  background-color: red;
+  word-wrap: break-word;
+  text-align:center;
+  color: black;
+}
+
+.ingredientList{
+  background-color: whitesmoke;
+}
+
+ul{
+  background-color: pink;
+}
+
+li{
+  background-color: blue;
+}
+
+h2{
+  margin: 10px;
 }
