@@ -15,15 +15,19 @@
         <h1 class="title is-1" style="color:#AA1111">Flavor Saveur</h1>
       </div>
       <div class="header is-centered">
-      <h2 class="title is-4">Enter an ingredient too see what will pair well with it!</h2>
+      <h2 class="title is-4">Enter an ingredient to see what will pair well with it!</h2>
       </div>
+      <input type="text is-centered" v-model="ingredient" v-on:keyup.13="listIngredientPairings">
+
     </div>
   </div>
     <div class="container is-fluid">
       <div class="is-centered">
-
-        <input type="text is-centered" v-model="ingredient" v-on:keyup.13="listIngredientPairings">
-        <div class='ingredientDiv'>{{ ingredient }}</div>
+        <div class='ingredientDiv'>
+          <p v-for="ingredient in pairedIngredients">
+            {{ ingredient }}
+          </p>
+        </div>
       </div>
 
   </div>
